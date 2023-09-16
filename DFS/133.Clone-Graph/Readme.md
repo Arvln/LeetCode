@@ -3,14 +3,11 @@
 深拷貝一幅圖等同於遍歷圖，採用 DFS 程式碼較為簡潔易懂，圖是類似一棵多叉樹的結構，因此遍歷方式跟遍歷樹幾乎一樣
 
 ```
-Node* dfs(Node* node) {
-    if (node==NULL) return NULL;
+void dfs(Node* node) {
+    if (node==NULL) return;
 
-    Node* newNode=new Node(node->val);
     for (Node* cur : node->neighbors)
-        newNode->neighbors.push_back(dfs(cur));
-
-    return newNode;
+      dfs(cur);
 }
 ```
 
