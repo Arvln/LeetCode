@@ -24,5 +24,12 @@ for (int i=start; i<nums.size(); i++)
 不過根據題意，數組元素的順序是有意義的，不能排序，需要換個方式將重複元素做剪枝，可以在每一層遍歷時加上 visited 來避免遍歷重複元素
 
 ```
-if (visited.find(nums[i])!=visited.end()) continue;
+unordered_set<int>visited;
+for (int i=start; i<nums.size(); i++)
+{
+  if (visited.find(nums[i])!=visited.end()) continue;
+
+  visited.insert(nums[i]);
+  dfs(nums, i+1);
+}
 ```
