@@ -30,7 +30,7 @@ public:
         }
 
         if (dp[i][j].empty())
-            dp[i][j].push_back(stoi(s.substr(i, j+1)));
+            dp[i][j].push_back(stoi(s.substr(i, j-i+1)));
         
         return dp[i][j];
     }
