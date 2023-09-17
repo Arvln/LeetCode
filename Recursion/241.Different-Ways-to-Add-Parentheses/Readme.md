@@ -1,4 +1,4 @@
-# 241.Different-Ways-to-Add-Parentheses.cpp
+# 241.Different-Ways-to-Add-Parentheses
 
 本題與 #679 和 #2019 類似，計算表達式所有可能的結果，可以假設第 k 個運算符是最後一個運算符
 
