@@ -3,7 +3,7 @@
 給 A 到 B 的路徑求 C 到 D 的路徑，就是套一下回溯算法再看提示有沒有可以剪枝的條件，第一步先用鄰接表建一個有向圖，每個變數映射到除法運算的結果
 
 ```
-A -> {B, val1}, {C, val2}, {D, val3} ...
+A -> [{B, val1}, {C, val2}, {D, val3} ...]
 
 unordered_map<string, vector<pair<string, double>>>map;
 ```
@@ -15,7 +15,7 @@ vector<double>ret;
 for (vector<string> query: queries)
 {
   unordered_set<string>visited({query[0]});
-  dfs(query[0], query[1], visited);
+  ret.push_back(dfs(query[0], query[1], visited));
 }
 ```
 
