@@ -12,7 +12,14 @@ dp[i]: the length of the longest wiggle subsequence of nums ending at nums[i]
 dp[i][j]: the length of the longest wiggle subsequence of nums ending at nums[i] and the last difference is j
 ```
 
-當第 i 個元素跟第 i-1 個元素差值為正，代表以第 i 個元素結尾差值為正的狀態是以第 i-1 個元素結尾差值為正的狀態跟以第 i-1 個元素結尾差值為負加上當前為正的差值的狀態中取最大值，反之類推，推出狀態轉移方程
+對於以第 i 個元素結尾最後一個差值為正或為負的最大值有兩種可能的更新方式
+
+```
+I. 以第 i-1 個元素結尾最後一個差值為 正/負 的最大值
+II. 以第 i-1 個元素結尾最後一個差值為 負/正 的最大值+當前為 正/0/負 的差值
+```
+
+推出狀態轉移方程
 
 ```
 if (nums[i]>nums[i-1])
