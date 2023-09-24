@@ -7,10 +7,9 @@ public:
         while (right<nums.size())
         {
             if (records[nums[right]]==0)
-            {
                 count+=1;
-                sum+=nums[right];
-            }
+
+            sum+=nums[right];
             records[nums[right]]+=1;
             right++;
 
@@ -19,10 +18,9 @@ public:
                 if (count==k)
                     ret=max(ret, sum);
                 if (records[nums[left]]==1)
-                {
                     count-=1;
-                    sum-=nums[left];
-                }
+
+                sum-=nums[left];
                 records[nums[left]]-=1;
                 left++;
             }
