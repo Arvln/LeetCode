@@ -14,7 +14,7 @@ public:
             records[nums[right]]+=1;
             right++;
 
-            while (left<right&&right-left==k)
+            if (left<right&&right-left==k)
             {
                 if (count==k)
                     ret=max(ret, sum);
