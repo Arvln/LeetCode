@@ -1,6 +1,6 @@
 # 650.2-Keys-Keyboard
 
-求最值得問題思路往 dp 靠，直接把要求的結果當作 dp 數組的定義
+求最值的問題思路往 dp 靠，直接把要求的結果當作 dp 數組的定義
 
 ```
 dp[i]:  the minimum number of operations to get the character 'A' exactly i times
