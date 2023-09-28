@@ -3,12 +3,12 @@ class Solution {
     {
         public:
             TrieNode* next[26];
-            bool isEnd;
+            bool is_end;
             TrieNode()
             {
                 for (int i=0; i<26; i++)
                     next[i]=NULL;
-                isEnd=false;
+                is_end=false;
             }
     };
     TrieNode* root;
@@ -28,7 +28,7 @@ public:
                     cur->next[c-'a']=new TrieNode();
                 cur=cur->next[c-'a'];
             }
-            cur->isEnd=true;
+            cur->is_end=true;
         }
 
         m=board.size(), n=board[0].size();
@@ -46,10 +46,10 @@ public:
         if (node==NULL) return;
 
         word.push_back(board[i][j]);
-        if (node->isEnd)
+        if (node->is_end)
         {
             ret.push_back(word);
-            node->isEnd=false;
+            node->is_end=false;
         }
 
         visited[i][j]=true;

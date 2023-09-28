@@ -27,10 +27,10 @@ if (node->next[board[i][j]-'a']==NULL) return;
 將已搜到的字詞取消標記，避免下次搜索將重複字詞加到結果集中
 
 ```
-if (node->next[board[i][j]-'a']->isEnd)
+if (node->next[board[i][j]-'a']->is_end)
 {
   ret.push_back(word);
-  node->next[board[i][j]-'a']->isEnd=false;
+  node->next[board[i][j]-'a']->is_end=false;
 }
 ```
 

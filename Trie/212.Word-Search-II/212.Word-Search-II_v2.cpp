@@ -3,13 +3,13 @@ class Solution {
     {
         public:
             TrieNode* next[26];
-            bool isEnd;
+            bool is_end;
             int count;
             TrieNode()
             {
                 for (int i=0; i<26; i++)
                     next[i]=NULL;
-                isEnd=false;
+                is_end=false;
                 count=0;
             }
     };
@@ -31,7 +31,7 @@ public:
                 cur=cur->next[c-'a'];
                 cur->count+=1;
             }
-            cur->isEnd=true;
+            cur->is_end=true;
         }
 
         m=board.size(), n=board[0].size();
@@ -50,11 +50,11 @@ public:
         if (node->count==0) return;
 
         word.push_back(board[i][j]);
-        if (node->isEnd)
+        if (node->is_end)
         {
             ret.push_back(word);
             reduce_count(root, word);
-            node->isEnd=false;
+            node->is_end=false;
         }
 
         visited[i][j]=true;
