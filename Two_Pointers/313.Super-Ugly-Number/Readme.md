@@ -17,6 +17,6 @@ while (!pq.empty()&&cur==pq.top().first)
   int i=pq.top().second;
   pq.pop();
   pointers[i]+=1;
-  pq.push({ret[points[i]]*primes[i], i});
+  pq.push({ret[pointers[i]]*primes[i], i});
 }
 ```
