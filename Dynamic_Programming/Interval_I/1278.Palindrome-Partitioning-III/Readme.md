@@ -30,6 +30,6 @@ for (int i=1; i<=n; i++)
       dp[i][k]=min(dp[i][k], dp[j-1][k-1]+to_palindrome(s, j, i));
 ```
 
-返回第 n-1 個元素切份為 K 份的 dp 值
+返回第 n-1 個元素切分為 K 份的 dp 值
 
 dp[n][K]
