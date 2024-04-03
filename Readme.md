@@ -17,6 +17,9 @@
 [211.Design-Add-and-Search-Words-Data-Structure](https://github.com/Arvln/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)   
 [648.Replace-Words](https://github.com/Arvln/LeetCode/tree/main/Trie/648.Replace-Words)   
 
+#### [Bit Manipulation](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation)  
+[191.Number-of-1-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/191.Number-of-1-Bits)   
+
 #### [Others](https://github.com/Arvln/LeetCode/tree/main/Others)
 * ``Presum``   
 [724.Find-Pivot-Index](https://github.com/Arvln/LeetCode/tree/main/Others/724.Find-Pivot-Index)   
