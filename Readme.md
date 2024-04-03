@@ -27,5 +27,6 @@
 [947.Most-Stones-Removed-with-Same-Row-or-Column](https://github.com/Arvln/LeetCode/tree/main/Union_Find/947.Most-Stones-Removed-with-Same-Row-or-Column)   
 
 #### [Others](https://github.com/Arvln/LeetCode/tree/main/Others)
+[9.Palindrome-Number](https://github.com/Arvln/LeetCode/tree/main/Others/9.Palindrome-Number)   
 * ``Presum``   
 [724.Find-Pivot-Index](https://github.com/Arvln/LeetCode/tree/main/Others/724.Find-Pivot-Index)   
