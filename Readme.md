@@ -22,7 +22,7 @@
 
 #### [Dynamic Programming](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming)   
 * ``Basic I``   
-[509.Fibonacci-Number](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/509.Fibonacci-Number)   
+[509.Fibonacci-Number](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/509.Fibonacci-Number)   
 
 #### [Bit Manipulation](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation)   
 [191.Number-of-1-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/191.Number-of-1-Bits)   
