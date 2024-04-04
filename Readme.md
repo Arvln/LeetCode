@@ -37,6 +37,9 @@
 #### [Union Find](https://github.com/Arvln/LeetCode/tree/main/Union_Find)   
 [947.Most-Stones-Removed-with-Same-Row-or-Column](https://github.com/Arvln/LeetCode/tree/main/Union_Find/947.Most-Stones-Removed-with-Same-Row-or-Column)   
 
+#### [Greedy](https://github.com/Arvln/LeetCode/tree/main/Greedy)   
+[1005.Maximize-Sum-Of-Array-After-K-Negations](https://github.com/Arvln/LeetCode/tree/main/Greedy/1005.Maximize-Sum-Of-Array-After-K-Negations)   
+
 #### [Others](https://github.com/Arvln/LeetCode/tree/main/Others)
 [9.Palindrome-Number](https://github.com/Arvln/LeetCode/tree/main/Others/9.Palindrome-Number)   
 * ``Presum``   
