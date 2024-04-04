@@ -2,7 +2,7 @@ class Solution {
 public:
     int largestSumAfterKNegations(vector<int>& nums, int k) {
         sort(nums.begin(), nums.end());
-        int sum=0, count=0, minVal=100;
+        int sum=0, minVal=100;
         for (int num : nums)
         {
             if (num<0&&k>0)
