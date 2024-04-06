@@ -1,6 +1,8 @@
 #### [Two Pointers](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers)
 [167.Two-Sum-II-Input-Array-Is-Sorted](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/167.Two-Sum-II-Input-Array-Is-Sorted)   
 [240.Search-a-2D-Matrix-II](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/240.Search-a-2D-Matrix-II)   
+* ``Sliding Window``  
+[1658.Minimum-Operations-to-Reduce-X-to-Zero](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/1658.Minimum-Operations-to-Reduce-X-to-Zero)    
 
 #### [Binary Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search)
 [278.First-Bad-Version](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/278.First-Bad-Version)   
@@ -15,7 +17,7 @@
 [404.Sum-of-Left-Leaves](https://github.com/Arvln/LeetCode/tree/main/Tree/404.Sum-of-Left-Leaves)   
 
 #### [Stack](https://github.com/Arvln/LeetCode/tree/main/Stack)
-* ``monotonic stack: next greater / smaller``   
+* ``Monotonic Stack: next greater / smaller``   
 [84.Largest-Rectangle-in-Histogram](https://github.com/Arvln/LeetCode/tree/main/Stack/84.Largest-Rectangle-in-Histogram)   
 
 #### [Priority Queue](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue)
