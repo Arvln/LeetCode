@@ -26,6 +26,7 @@
 [1953.Maximum-Number-of-Weeks-for-Which-You-Can-Work](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/1953.Maximum-Number-of-Weeks-for-Which-You-Can-Work)   
 
 #### [DFS](https://github.com/Arvln/LeetCode/tree/main/DFS)  
+[22.Generate-Parentheses](https://github.com/Arvln/LeetCode/tree/main/DFS/22.Generate-Parentheses)   
 [1020.Number-of-Enclaves](https://github.com/Arvln/LeetCode/tree/main/DFS/1020.Number-of-Enclaves)   
 
 #### [Trie](https://github.com/Arvln/LeetCode/tree/main/Trie)
