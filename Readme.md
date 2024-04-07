@@ -19,6 +19,7 @@
 [144.Binary-Tree-Preorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/144.Binary-Tree-Preorder-Traversal)   
 [222.Count-Complete-Tree-Nodes](https://github.com/Arvln/LeetCode/tree/main/Tree/222.Count-Complete-Tree-Nodes)   
 [404.Sum-of-Left-Leaves](https://github.com/Arvln/LeetCode/tree/main/Tree/404.Sum-of-Left-Leaves)   
+[889.Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/889.Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal)   
 
 #### [Stack](https://github.com/Arvln/LeetCode/tree/main/Stack)
 * ``Monotonic Stack: next greater / smaller``   
