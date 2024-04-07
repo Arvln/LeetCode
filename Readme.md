@@ -7,6 +7,7 @@
 #### [Binary Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search)
 [278.First-Bad-Version](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/278.First-Bad-Version)   
 [704.Binary-Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/704.Binary-Search)   
+[1201.Ugly-Number-III](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1201.Ugly-Number-III)   
 
 #### [Hash Map](https://github.com/Arvln/LeetCode/tree/main/Hash)
 [383.Ransom-Note](https://github.com/Arvln/LeetCode/tree/main/Hash/383.Ransom-Note)   
