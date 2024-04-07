@@ -13,6 +13,7 @@
 [295.FindMedian-from-Data-Stream](https://github.com/Arvln/LeetCode/tree/main/Sorted_Container/295.FindMedian-from-Data-Stream)   
 
 #### [Tree](https://github.com/Arvln/LeetCode/tree/main/Tree)
+[100.Same-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/100.Same-Tree)   
 [107.Binary-Tree-Level-Order-Traversal-II](https://github.com/Arvln/LeetCode/tree/main/Tree/107.Binary-Tree-Level-Order-Traversal-II)   
 [222.Count-Complete-Tree-Nodes](https://github.com/Arvln/LeetCode/tree/main/Tree/222.Count-Complete-Tree-Nodes)   
 [404.Sum-of-Left-Leaves](https://github.com/Arvln/LeetCode/tree/main/Tree/404.Sum-of-Left-Leaves)   
@@ -25,7 +26,7 @@
 * ``Arrangement with Stride``   
 [1953.Maximum-Number-of-Weeks-for-Which-You-Can-Work](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/1953.Maximum-Number-of-Weeks-for-Which-You-Can-Work)   
 
-#### [DFS](https://github.com/Arvln/LeetCode/tree/main/DFS)  
+#### [DFS](https://github.com/Arvln/LeetCode/tree/main/DFS)
 [22.Generate-Parentheses](https://github.com/Arvln/LeetCode/tree/main/DFS/22.Generate-Parentheses)   
 [1020.Number-of-Enclaves](https://github.com/Arvln/LeetCode/tree/main/DFS/1020.Number-of-Enclaves)   
 
