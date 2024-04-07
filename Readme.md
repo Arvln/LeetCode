@@ -42,7 +42,7 @@
 [82.Remove-Duplicates-from-Sorted-List-II](https://github.com/Arvln/LeetCode/tree/main/Linked_List/82.Remove-Duplicates-from-Sorted-List-II)   
 [203.Remove-Linked-List-Elements](https://github.com/Arvln/LeetCode/tree/main/Linked_List/203.Remove-Linked-List-Elements)   
 
-#### [Dynamic Programming](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming)   
+#### [Dynamic Programming](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming)
 * ``Basic I``   
 [509.Fibonacci-Number](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/509.Fibonacci-Number)   
 [918.Maximum-Sum-Circular-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/918.Maximum-Sum-Circular-Subarray)   
@@ -50,10 +50,13 @@
 #### [Bit Manipulation](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation)   
 [191.Number-of-1-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/191.Number-of-1-Bits)   
 
-#### [Union Find](https://github.com/Arvln/LeetCode/tree/main/Union_Find)   
+#### [String](https://github.com/Arvln/LeetCode/tree/main/String)
+[344.Reverse-String](https://github.com/Arvln/LeetCode/tree/main/String/344.Reverse-String)   
+
+#### [Union Find](https://github.com/Arvln/LeetCode/tree/main/Union_Find)
 [947.Most-Stones-Removed-with-Same-Row-or-Column](https://github.com/Arvln/LeetCode/tree/main/Union_Find/947.Most-Stones-Removed-with-Same-Row-or-Column)   
 
-#### [Greedy](https://github.com/Arvln/LeetCode/tree/main/Greedy)   
+#### [Greedy](https://github.com/Arvln/LeetCode/tree/main/Greedy)
 [1005.Maximize-Sum-Of-Array-After-K-Negations](https://github.com/Arvln/LeetCode/tree/main/Greedy/1005.Maximize-Sum-Of-Array-After-K-Negations)   
 
 #### [Others](https://github.com/Arvln/LeetCode/tree/main/Others)
