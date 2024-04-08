@@ -14,6 +14,7 @@
 [383.Ransom-Note](https://github.com/Arvln/LeetCode/tree/main/Hash/383.Ransom-Note)   
 
 #### [Sorted Container](https://github.com/Arvln/LeetCode/tree/main/Sorted_Container)
+[632.Smallest-Range-Covering-Elements-from-K-Lists](https://github.com/Arvln/LeetCode/tree/main/Sorted_Container/632.Smallest-Range-Covering-Elements-from-K-Lists)   
 * ``Dual Multiset``   
 [295.FindMedian-from-Data-Stream](https://github.com/Arvln/LeetCode/tree/main/Sorted_Container/295.FindMedian-from-Data-Stream)   
 
