@@ -38,8 +38,10 @@
 
 #### [DFS](https://github.com/Arvln/LeetCode/tree/main/DFS)
 [22.Generate-Parentheses](https://github.com/Arvln/LeetCode/tree/main/DFS/22.Generate-Parentheses)   
-[698.Partition-to-K-Equal-Sum-Subsets](https://github.com/Arvln/LeetCode/tree/main/DFS/698.Partition-to-K-Equal-Sum-Subsets)   
 [1020.Number-of-Enclaves](https://github.com/Arvln/LeetCode/tree/main/DFS/1020.Number-of-Enclaves)   
+* ``Search in an Array``   
+[47.Permutations-II](https://github.com/Arvln/LeetCode/tree/main/DFS/47.Permutations-II)   
+[698.Partition-to-K-Equal-Sum-Subsets](https://github.com/Arvln/LeetCode/tree/main/DFS/698.Partition-to-K-Equal-Sum-Subsets)   
 
 #### [Trie](https://github.com/Arvln/LeetCode/tree/main/Trie)
 [211.Design-Add-and-Search-Words-Data-Structure](https://github.com/Arvln/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)   
