@@ -78,6 +78,8 @@
 #### [Greedy](https://github.com/Arvln/LeetCode/tree/main/Greedy)
 [179.Largest-Number](https://github.com/Arvln/LeetCode/tree/main/Greedy/179.Largest-Number)   
 [1005.Maximize-Sum-Of-Array-After-K-Negations](https://github.com/Arvln/LeetCode/tree/main/Greedy/1005.Maximize-Sum-Of-Array-After-K-Negations)   
+* ``Parenthesis``   
+[1249.Minimum-Remove-to-Make-Valid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/Greedy/1249.Minimum-Remove-to-Make-Valid-Parentheses)   
 
 #### [Others](https://github.com/Arvln/LeetCode/tree/main/Others)
 [9.Palindrome-Number](https://github.com/Arvln/LeetCode/tree/main/Others/9.Palindrome-Number)   
