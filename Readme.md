@@ -1,6 +1,7 @@
 #### [Two Pointers](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers)
 [167.Two-Sum-II-Input-Array-Is-Sorted](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/167.Two-Sum-II-Input-Array-Is-Sorted)   
 [240.Search-a-2D-Matrix-II](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/240.Search-a-2D-Matrix-II)   
+[281.Zigzag-Iterator](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/281.Zigzag-Iterator)   
 * ``Sliding Window``   
 [1658.Minimum-Operations-to-Reduce-X-to-Zero](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/1658.Minimum-Operations-to-Reduce-X-to-Zero)    
 
