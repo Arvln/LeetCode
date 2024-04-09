@@ -44,6 +44,7 @@
 [1020.Number-of-Enclaves](https://github.com/Arvln/LeetCode/tree/main/DFS/1020.Number-of-Enclaves)   
 * ``Search in an Array``   
 [47.Permutations-II](https://github.com/Arvln/LeetCode/tree/main/DFS/47.Permutations-II)   
+[301.Remove-Invalid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/DFS/301.Remove-Invalid-Parentheses)   
 [698.Partition-to-K-Equal-Sum-Subsets](https://github.com/Arvln/LeetCode/tree/main/DFS/698.Partition-to-K-Equal-Sum-Subsets)   
 
 #### [BFS](https://github.com/Arvln/LeetCode/tree/main/BFS)
