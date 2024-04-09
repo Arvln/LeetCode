@@ -47,6 +47,7 @@
 [698.Partition-to-K-Equal-Sum-Subsets](https://github.com/Arvln/LeetCode/tree/main/DFS/698.Partition-to-K-Equal-Sum-Subsets)   
 
 #### [BFS](https://github.com/Arvln/LeetCode/tree/main/BFS)
+[1245.Tree-Diameter](https://github.com/Arvln/LeetCode/tree/main/BFS/1245.Tree-Diameter)   
 * ``Topological Sorting``   
 [269.Alien-Dictionary](https://github.com/Arvln/LeetCode/tree/main/BFS/269.Alien-Dictionary)   
 
