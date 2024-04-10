@@ -29,6 +29,7 @@
 [144.Binary-Tree-Preorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/144.Binary-Tree-Preorder-Traversal)   
 [222.Count-Complete-Tree-Nodes](https://github.com/Arvln/LeetCode/tree/main/Tree/222.Count-Complete-Tree-Nodes)   
 [404.Sum-of-Left-Leaves](https://github.com/Arvln/LeetCode/tree/main/Tree/404.Sum-of-Left-Leaves)   
+[700.Search-in-a-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/700.Search-in-a-Binary-Search-Tree)   
 [701.Insert-into-a-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/701.Insert-into-a-Binary-Search-Tree)   
 [889.Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/889.Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal)   
 [1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree)   
