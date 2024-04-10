@@ -32,6 +32,7 @@
 [700.Search-in-a-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/700.Search-in-a-Binary-Search-Tree)   
 [701.Insert-into-a-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/701.Insert-into-a-Binary-Search-Tree)   
 [889.Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/889.Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal)   
+[1022.Sum-of-Root-To-Leaf-Binary-Numbers](https://github.com/Arvln/LeetCode/tree/main/Tree/1022.Sum-of-Root-To-Leaf-Binary-Numbers)   
 [1315.Sum-of-Nodes-with-Even-Valued-Grandparent](https://github.com/Arvln/LeetCode/tree/main/Tree/1315.Sum-of-Nodes-with-Even-Valued-Grandparent)   
 [1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree)   
 
