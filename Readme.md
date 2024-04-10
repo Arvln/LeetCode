@@ -86,6 +86,7 @@
 
 #### [Greedy](https://github.com/Arvln/LeetCode/tree/main/Greedy)
 [179.Largest-Number](https://github.com/Arvln/LeetCode/tree/main/Greedy/179.Largest-Number)   
+[406.Queue-Reconstruction-by-Height](https://github.com/Arvln/LeetCode/tree/main/Greedy/406.Queue-Reconstruction-by-Height)   
 [1005.Maximize-Sum-Of-Array-After-K-Negations](https://github.com/Arvln/LeetCode/tree/main/Greedy/1005.Maximize-Sum-Of-Array-After-K-Negations)   
 * ``Parenthesis``   
 [1047.Remove-All-Adjacent-Duplicates-In-String](https://github.com/Arvln/LeetCode/tree/main/Greedy/1047.Remove-All-Adjacent-Duplicates-In-String)   
