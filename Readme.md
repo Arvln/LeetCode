@@ -87,6 +87,9 @@
 [765.Couples-Holding-Hands](https://github.com/Arvln/LeetCode/tree/main/Union_Find/765.Couples-Holding-Hands)   
 [947.Most-Stones-Removed-with-Same-Row-or-Column](https://github.com/Arvln/LeetCode/tree/main/Union_Find/947.Most-Stones-Removed-with-Same-Row-or-Column)   
 
+#### [Math](https://github.com/Arvln/LeetCode/tree/main/Math)
+[528.Random-Pick-with-Weight](https://github.com/Arvln/LeetCode/tree/main/Math/528.Random-Pick-with-Weight)   
+
 #### [Greedy](https://github.com/Arvln/LeetCode/tree/main/Greedy)
 [179.Largest-Number](https://github.com/Arvln/LeetCode/tree/main/Greedy/179.Largest-Number)   
 [406.Queue-Reconstruction-by-Height](https://github.com/Arvln/LeetCode/tree/main/Greedy/406.Queue-Reconstruction-by-Height)   
