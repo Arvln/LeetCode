@@ -60,6 +60,8 @@
 [1245.Tree-Diameter](https://github.com/Arvln/LeetCode/tree/main/BFS/1245.Tree-Diameter)   
 * ``Topological Sorting``   
 [269.Alien-Dictionary](https://github.com/Arvln/LeetCode/tree/main/BFS/269.Alien-Dictionary)   
+* ``Dijkstra (BFS+PQ)``   
+[743.Network-Delay-Time](https://github.com/Arvln/LeetCode/tree/main/BFS/743.Network-Delay-Time)   
 
 #### [Trie](https://github.com/Arvln/LeetCode/tree/main/Trie)
 [211.Design-Add-and-Search-Words-Data-Structure](https://github.com/Arvln/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)   
