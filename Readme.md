@@ -14,6 +14,7 @@
 [1201.Ugly-Number-III](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1201.Ugly-Number-III)   
 
 #### [Hash Map](https://github.com/Arvln/LeetCode/tree/main/Hash)
+[1.Two-Sum](https://github.com/Arvln/LeetCode/tree/main/Hash/1.Two-Sum)   
 [383.Ransom-Note](https://github.com/Arvln/LeetCode/tree/main/Hash/383.Ransom-Note)   
 
 #### [Sorted Container](https://github.com/Arvln/LeetCode/tree/main/Sorted_Container)
