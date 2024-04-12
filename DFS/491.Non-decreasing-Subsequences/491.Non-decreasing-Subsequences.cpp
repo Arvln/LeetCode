@@ -1,26 +1,25 @@
 class Solution {
-    vector<vector<int>>ret;
+    vector<vector<int>>rets;
+    vector<int>path;
 public:
     vector<vector<int>> findSubsequences(vector<int>& nums) {
-        vector<int>ans;
-        dfs(nums, ans, 0);
-        return ret;
+        dfs(nums, 0);
+        return rets;
     }
-    void dfs(vector<int>& nums, vector<int>& ans, int start)
+    void dfs(vector<int>&nums, int start)
     {
-        if (ans.size()>1)
-            ret.push_back(ans);
+        if (path.size()>1) rets.push_back(path);
 
         unordered_set<int>visited;
         for (int i=start; i<nums.size(); i++)
         {
+            if (!path.empty()&&path.back()>nums[i]) continue;
             if (visited.find(nums[i])!=visited.end()) continue;
-            if (!ans.empty()&&ans.back()>nums[i]) continue;
-
             visited.insert(nums[i]);
-            ans.push_back(nums[i]);
-            dfs(nums, ans, i+1);
-            ans.pop_back();
+
+            path.push_back(nums[i]);
+            dfs(nums, i+1);
+            path.pop_back();
         }
     }
 };
