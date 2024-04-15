@@ -100,6 +100,7 @@
 [344.Reverse-String](https://github.com/Arvln/LeetCode/tree/main/String/344.Reverse-String)   
 
 #### [Union Find](https://github.com/Arvln/LeetCode/tree/main/Union_Find)
+[128.Longest-Consecutive-Sequence](https://github.com/Arvln/LeetCode/tree/main/Union_Find/128.Longest-Consecutive-Sequence)   
 [323.Number-of-Connected-Components-in-an-Undirected-Graph](https://github.com/Arvln/LeetCode/tree/main/Union_Find/323.Number-of-Connected-Components-in-an-Undirected-Graph)   
 [765.Couples-Holding-Hands](https://github.com/Arvln/LeetCode/tree/main/Union_Find/765.Couples-Holding-Hands)   
 [947.Most-Stones-Removed-with-Same-Row-or-Column](https://github.com/Arvln/LeetCode/tree/main/Union_Find/947.Most-Stones-Removed-with-Same-Row-or-Column)   
