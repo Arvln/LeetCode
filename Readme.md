@@ -103,6 +103,7 @@
 [338.Counting-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/338.Counting-Bits)   
 
 #### [String](https://github.com/Arvln/LeetCode/tree/main/String)
+[28.Find-the-Index-of-the-First-Occurrence-in-a-String](https://github.com/Arvln/LeetCode/tree/main/String/28.Find-the-Index-of-the-First-Occurrence-in-a-String)   
 [344.Reverse-String](https://github.com/Arvln/LeetCode/tree/main/String/344.Reverse-String)   
 
 #### [Union Find](https://github.com/Arvln/LeetCode/tree/main/Union_Find)
