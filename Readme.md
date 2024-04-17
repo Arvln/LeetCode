@@ -120,6 +120,7 @@
 [455.Assign-Cookies](https://github.com/Arvln/LeetCode/tree/main/Greedy/455.Assign-Cookies)   
 [1005.Maximize-Sum-Of-Array-After-K-Negations](https://github.com/Arvln/LeetCode/tree/main/Greedy/1005.Maximize-Sum-Of-Array-After-K-Negations)   
 * ``Parenthesis``   
+[20.Valid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/Greedy/20.Valid-Parentheses)   
 [921.Minimum-Add-to-Make-Parentheses-Valid](https://github.com/Arvln/LeetCode/tree/main/Greedy/921.Minimum-Add-to-Make-Parentheses-Valid)   
 [1047.Remove-All-Adjacent-Duplicates-In-String](https://github.com/Arvln/LeetCode/tree/main/Greedy/1047.Remove-All-Adjacent-Duplicates-In-String)   
 [1249.Minimum-Remove-to-Make-Valid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/Greedy/1249.Minimum-Remove-to-Make-Valid-Parentheses)   
