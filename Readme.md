@@ -50,6 +50,9 @@
 [1339.Maximum-Product-of-Splitted-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1339.Maximum-Product-of-Splitted-Binary-Tree)   
 [1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree)   
 
+#### [Design](https://github.com/Arvln/LeetCode/tree/main/Design)
+[380.Insert-Delete-GetRandom-O(1)](https://github.com/Arvln/LeetCode/tree/main/Design/380.Insert-Delete-GetRandom-O(1))   
+
 #### [Divide and Conquer](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer)
 [1649.Create-Sorted-Array-through-Instructions](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer/1649.Create-Sorted-Array-through-Instructions)   
 
