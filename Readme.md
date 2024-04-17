@@ -69,6 +69,7 @@
 [22.Generate-Parentheses](https://github.com/Arvln/LeetCode/tree/main/DFS/22.Generate-Parentheses)   
 [733.Flood-Fill](https://github.com/Arvln/LeetCode/tree/main/DFS/733.Flood-Fill)   
 [1020.Number-of-Enclaves](https://github.com/Arvln/LeetCode/tree/main/DFS/1020.Number-of-Enclaves)   
+[1219.Path-with-Maximum-Gold](https://github.com/Arvln/LeetCode/tree/main/DFS/1219.Path-with-Maximum-Gold)   
 * ``Search in an Array``   
 [15.3Sum](https://github.com/Arvln/LeetCode/tree/main/DFS/15.3Sum)   
 [47.Permutations-II](https://github.com/Arvln/LeetCode/tree/main/DFS/47.Permutations-II)   
