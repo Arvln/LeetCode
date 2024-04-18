@@ -125,6 +125,7 @@
 [947.Most-Stones-Removed-with-Same-Row-or-Column](https://github.com/Arvln/LeetCode/tree/main/Union_Find/947.Most-Stones-Removed-with-Same-Row-or-Column)   
 
 #### [Math](https://github.com/Arvln/LeetCode/tree/main/Math)
+[50.Pow](https://github.com/Arvln/LeetCode/tree/main/Math/50.Pow)   
 [528.Random-Pick-with-Weight](https://github.com/Arvln/LeetCode/tree/main/Math/528.Random-Pick-with-Weight)   
 
 #### [Greedy](https://github.com/Arvln/LeetCode/tree/main/Greedy)
