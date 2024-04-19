@@ -39,6 +39,7 @@
 [144.Binary-Tree-Preorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/144.Binary-Tree-Preorder-Traversal)   
 [222.Count-Complete-Tree-Nodes](https://github.com/Arvln/LeetCode/tree/main/Tree/222.Count-Complete-Tree-Nodes)   
 [230.Kth-Smallest-Element-in-a-BST](https://github.com/Arvln/LeetCode/tree/main/Tree/230.Kth-Smallest-Element-in-a-BST)   
+[236.Lowest-CommonAncestor-of-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/236.Lowest-CommonAncestor-of-a-Binary-Tree)   
 [404.Sum-of-Left-Leaves](https://github.com/Arvln/LeetCode/tree/main/Tree/404.Sum-of-Left-Leaves)   
 [515.Find-Largest-Value-in-Each-Tree-Row](https://github.com/Arvln/LeetCode/tree/main/Tree/515.Find-Largest-Value-in-Each-Tree-Row)   
 [530.Minimum-Absolute-Difference-in-BST](https://github.com/Arvln/LeetCode/tree/main/Tree/530.Minimum-Absolute-Difference-in-BST)   
