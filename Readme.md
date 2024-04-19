@@ -87,6 +87,7 @@
 [698.Partition-to-K-Equal-Sum-Subsets](https://github.com/Arvln/LeetCode/tree/main/DFS/698.Partition-to-K-Equal-Sum-Subsets)   
 
 #### [BFS](https://github.com/Arvln/LeetCode/tree/main/BFS)
+[490.The-Maze](https://github.com/Arvln/LeetCode/tree/main/BFS/490.The-Maze)   
 [1245.Tree-Diameter](https://github.com/Arvln/LeetCode/tree/main/BFS/1245.Tree-Diameter)   
 * ``Topological Sorting``   
 [207.Course-Schedule](https://github.com/Arvln/LeetCode/tree/main/BFS/207.Course-Schedule)   
