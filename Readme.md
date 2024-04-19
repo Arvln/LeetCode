@@ -119,7 +119,7 @@
 [746.Min-Cost-Climbing-Stairs](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/746.Min-Cost-Climbing-Stairs)   
 [918.Maximum-Sum-Circular-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/918.Maximum-Sum-Circular-Subarray)   
 * ``Basic II``   
-[96.Unique-Binary-Search-Trees](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/96.Unique-Binary-Search-Trees)   
+[96.Unique-Binary-Search-Trees](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/96.Unique-Binary-Search-Trees)   
 * ``Double Sequence``   
 [718.Maximum-Length-of-Repeated-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/718.Maximum-Length-of-Repeated-Subarray)   
 * ``Interval II``   
