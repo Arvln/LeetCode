@@ -95,6 +95,7 @@
 
 #### [BFS](https://github.com/Arvln/LeetCode/tree/main/BFS)
 [490.The-Maze](https://github.com/Arvln/LeetCode/tree/main/BFS/490.The-Maze)   
+[542.01-Matrix](https://github.com/Arvln/LeetCode/tree/main/BFS/542.01-Matrix)   
 [1245.Tree-Diameter](https://github.com/Arvln/LeetCode/tree/main/BFS/1245.Tree-Diameter)   
 * ``Topological Sorting``   
 [207.Course-Schedule](https://github.com/Arvln/LeetCode/tree/main/BFS/207.Course-Schedule)   
