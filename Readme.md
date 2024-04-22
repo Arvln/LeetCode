@@ -150,6 +150,7 @@
 [528.Random-Pick-with-Weight](https://github.com/Arvln/LeetCode/tree/main/Math/528.Random-Pick-with-Weight)   
 
 #### [Greedy](https://github.com/Arvln/LeetCode/tree/main/Greedy)
+[121.Best-Time-to-Buy-and-Sell-Stock](https://github.com/Arvln/LeetCode/tree/main/Greedy/121.Best-Time-to-Buy-and-Sell-Stock)   
 [179.Largest-Number](https://github.com/Arvln/LeetCode/tree/main/Greedy/179.Largest-Number)   
 [277.Find-the-Celebrity](https://github.com/Arvln/LeetCode/tree/main/Greedy/277.Find-the-Celebrity)   
 [406.Queue-Reconstruction-by-Height](https://github.com/Arvln/LeetCode/tree/main/Greedy/406.Queue-Reconstruction-by-Height)   
