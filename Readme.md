@@ -93,6 +93,8 @@
 [301.Remove-Invalid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/DFS/301.Remove-Invalid-Parentheses)   
 [491.Non-decreasing-Subsequences](https://github.com/Arvln/LeetCode/tree/main/DFS/491.Non-decreasing-Subsequences)   
 [698.Partition-to-K-Equal-Sum-Subsets](https://github.com/Arvln/LeetCode/tree/main/DFS/698.Partition-to-K-Equal-Sum-Subsets)   
+* ``memorization``   
+[329.Longest-Increasing-Path-in-a-Matrix](https://github.com/Arvln/LeetCode/tree/main/DFS/329.Longest-Increasing-Path-in-a-Matrix)   
 
 #### [BFS](https://github.com/Arvln/LeetCode/tree/main/BFS)
 [490.The-Maze](https://github.com/Arvln/LeetCode/tree/main/BFS/490.The-Maze)   
