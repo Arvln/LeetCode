@@ -11,6 +11,7 @@
 [1658.Minimum-Operations-to-Reduce-X-to-Zero](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/1658.Minimum-Operations-to-Reduce-X-to-Zero)   
 
 #### [Binary Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search)
+[153.Find-Minimum-in-Rotated-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/153.Find-Minimum-in-Rotated-Sorted-Array)   
 [278.First-Bad-Version](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/278.First-Bad-Version)   
 [704.Binary-Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/704.Binary-Search)   
 * ``Binary Search by Value``   
