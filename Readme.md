@@ -128,6 +128,7 @@
 [5.Longest-Palindromic-Substring](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/5.Longest-Palindromic-Substring)   
 
 #### [Bit Manipulation](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation)   
+[136.Single-Number](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/136.Single-Number)   
 [191.Number-of-1-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/191.Number-of-1-Bits)   
 [338.Counting-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/338.Counting-Bits)   
 
