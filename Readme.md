@@ -40,6 +40,7 @@
 [110.Balanced-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/110.Balanced-Binary-Tree)   
 [112.Path-Sum](https://github.com/Arvln/LeetCode/tree/main/Tree/112.Path-Sum)   
 [114.Flatten-Binary-Tree-to-Linked-List](https://github.com/Arvln/LeetCode/tree/main/Tree/114.Flatten-Binary-Tree-to-Linked-List)   
+[116.Populating-Next-Right-Pointers-in-Each-Node](https://github.com/Arvln/LeetCode/tree/main/Tree/116.Populating-Next-Right-Pointers-in-Each-Node)   
 [117.Populating-Next-Right-Pointers-in-Each-Node-II](https://github.com/Arvln/LeetCode/tree/main/Tree/117.Populating-Next-Right-Pointers-in-Each-Node-II)   
 [144.Binary-Tree-Preorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/144.Binary-Tree-Preorder-Traversal)   
 [222.Count-Complete-Tree-Nodes](https://github.com/Arvln/LeetCode/tree/main/Tree/222.Count-Complete-Tree-Nodes)   
