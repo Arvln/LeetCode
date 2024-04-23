@@ -77,6 +77,7 @@
 
 #### [Stack](https://github.com/Arvln/LeetCode/tree/main/Stack)
 [155.Min-Stack](https://github.com/Arvln/LeetCode/tree/main/Stack/155.Min-Stack)   
+[844.Backspace-String-Compare](https://github.com/Arvln/LeetCode/tree/main/Stack/844.Backspace-String-Compare)   
 * ``Monotonic Stack: next greater / smaller``   
 [84.Largest-Rectangle-in-Histogram](https://github.com/Arvln/LeetCode/tree/main/Stack/84.Largest-Rectangle-in-Histogram)   
 [1944.Number-of-Visible-People-in-a-Queue](https://github.com/Arvln/LeetCode/tree/main/Stack/1944.Number-of-Visible-People-in-a-Queue)   
