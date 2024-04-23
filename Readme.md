@@ -103,6 +103,7 @@
 [490.The-Maze](https://github.com/Arvln/LeetCode/tree/main/BFS/490.The-Maze)   
 [542.01-Matrix](https://github.com/Arvln/LeetCode/tree/main/BFS/542.01-Matrix)   
 [1245.Tree-Diameter](https://github.com/Arvln/LeetCode/tree/main/BFS/1245.Tree-Diameter)   
+[1926.Nearest-Exit-from-Entrance-in-Maze](https://github.com/Arvln/LeetCode/tree/main/BFS/1926.Nearest-Exit-from-Entrance-in-Maze)   
 * ``Topological Sorting``   
 [207.Course-Schedule](https://github.com/Arvln/LeetCode/tree/main/BFS/207.Course-Schedule)   
 [269.Alien-Dictionary](https://github.com/Arvln/LeetCode/tree/main/BFS/269.Alien-Dictionary)   
