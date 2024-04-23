@@ -70,6 +70,7 @@
 [380.Insert-Delete-GetRandom-O(1)](https://github.com/Arvln/LeetCode/tree/main/Design/380.Insert-Delete-GetRandom-O(1))   
 
 #### [Divide and Conquer](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer)
+[493.Reverse-Pairs](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer/493.Reverse-Pairs)   
 [1649.Create-Sorted-Array-through-Instructions](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer/1649.Create-Sorted-Array-through-Instructions)   
 
 #### [Stack](https://github.com/Arvln/LeetCode/tree/main/Stack)
