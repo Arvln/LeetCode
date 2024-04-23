@@ -8,6 +8,7 @@
 * ``Sliding Window``   
 [3.Longest-Substring-Without-Repeating-Characters](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/3.Longest-Substring-Without-Repeating-Characters)   
 [438.Find-All-Anagrams-in-a-String](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/438.Find-All-Anagrams-in-a-String)   
+[1438.Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/1438.Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit)   
 [1658.Minimum-Operations-to-Reduce-X-to-Zero](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/1658.Minimum-Operations-to-Reduce-X-to-Zero)   
 
 #### [Binary Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search)
