@@ -69,6 +69,7 @@
 
 #### [Design](https://github.com/Arvln/LeetCode/tree/main/Design)
 [380.Insert-Delete-GetRandom-O(1)](https://github.com/Arvln/LeetCode/tree/main/Design/380.Insert-Delete-GetRandom-O(1))   
+[1352.Product-of-the-Last-K-Numbers](https://github.com/Arvln/LeetCode/tree/main/Design/1352.Product-of-the-Last-K-Numbers)   
 
 #### [Divide and Conquer](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer)
 [493.Reverse-Pairs](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer/493.Reverse-Pairs)   
