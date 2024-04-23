@@ -72,6 +72,7 @@
 [155.Min-Stack](https://github.com/Arvln/LeetCode/tree/main/Stack/155.Min-Stack)   
 * ``Monotonic Stack: next greater / smaller``   
 [84.Largest-Rectangle-in-Histogram](https://github.com/Arvln/LeetCode/tree/main/Stack/84.Largest-Rectangle-in-Histogram)   
+[1944.Number-of-Visible-People-in-a-Queue](https://github.com/Arvln/LeetCode/tree/main/Stack/1944.Number-of-Visible-People-in-a-Queue)   
 
 #### [Priority Queue](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue)
 * ``Arrangement with Stride``   
