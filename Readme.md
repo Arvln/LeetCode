@@ -85,6 +85,7 @@
 
 #### [DFS](https://github.com/Arvln/LeetCode/tree/main/DFS)
 [22.Generate-Parentheses](https://github.com/Arvln/LeetCode/tree/main/DFS/22.Generate-Parentheses)   
+[46.Permutations](https://github.com/Arvln/LeetCode/tree/main/DFS/46.Permutations)   
 [52.N-Queens-II](https://github.com/Arvln/LeetCode/tree/main/DFS/52.N-Queens-II)   
 [77.Combinations](https://github.com/Arvln/LeetCode/tree/main/DFS/77.Combinations)   
 [78.Subsets](https://github.com/Arvln/LeetCode/tree/main/DFS/78.Subsets)   
