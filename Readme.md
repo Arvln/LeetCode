@@ -87,6 +87,7 @@
 [402.Remove-K-Digits](https://github.com/Arvln/LeetCode/tree/main/Stack/402.Remove-K-Digits)   
 
 #### [Priority Queue](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue)
+[451.Sort-Characters-By-Frequency](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/451.Sort-Characters-By-Frequency)   
 * ``Arrangement with Stride``   
 [1953.Maximum-Number-of-Weeks-for-Which-You-Can-Work](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/1953.Maximum-Number-of-Weeks-for-Which-You-Can-Work)   
 
