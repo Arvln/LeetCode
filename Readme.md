@@ -90,6 +90,7 @@
 #### [Priority Queue](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue)
 [451.Sort-Characters-By-Frequency](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/451.Sort-Characters-By-Frequency)   
 * ``Arrangement with Stride``   
+[984.String-Without-AAA-or-BBB](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/984.String-Without-AAA-or-BBB)   
 [1953.Maximum-Number-of-Weeks-for-Which-You-Can-Work](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/1953.Maximum-Number-of-Weeks-for-Which-You-Can-Work)   
 
 #### [DFS](https://github.com/Arvln/LeetCode/tree/main/DFS)
