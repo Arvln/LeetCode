@@ -19,6 +19,8 @@
 * ``Binary Search by Value``   
 [1011.Capacity-To-Ship-Packages-Within-D-Days](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1011.Capacity-To-Ship-Packages-Within-D-Days)   
 [1201.Ugly-Number-III](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1201.Ugly-Number-III)   
+    * ``Find K-th Element``   
+[378.Kth-Smallest-Element-in-a-Sorted-Matrix](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/378.Kth-Smallest-Element-in-a-Sorted-Matrix)   
 
 #### [Hash Map](https://github.com/Arvln/LeetCode/tree/main/Hash)
 [1.Two-Sum](https://github.com/Arvln/LeetCode/tree/main/Hash/1.Two-Sum)   
