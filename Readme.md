@@ -141,6 +141,7 @@
 #### [Trie](https://github.com/Arvln/LeetCode/tree/main/Trie)
 [211.Design-Add-and-Search-Words-Data-Structure](https://github.com/Arvln/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)   
 [648.Replace-Words](https://github.com/Arvln/LeetCode/tree/main/Trie/648.Replace-Words)   
+[677.Map-Sum-Pairs](https://github.com/Arvln/LeetCode/tree/main/Trie/677.Map-Sum-Pairs)   
 
 #### [Linked List](https://github.com/Arvln/LeetCode/tree/main/Linked_List)
 [82.Remove-Duplicates-from-Sorted-List-II](https://github.com/Arvln/LeetCode/tree/main/Linked_List/82.Remove-Duplicates-from-Sorted-List-II)   
