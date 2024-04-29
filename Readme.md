@@ -174,6 +174,7 @@
 #### [Bit Manipulation](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation)   
 [136.Single-Number](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/136.Single-Number)   
 [191.Number-of-1-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/191.Number-of-1-Bits)   
+[260.Single-Number-III](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/260.Single-Number-III)   
 [338.Counting-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/338.Counting-Bits)   
 
 #### [String](https://github.com/Arvln/LeetCode/tree/main/String)
