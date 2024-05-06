@@ -148,6 +148,7 @@
 [207.Course-Schedule](https://github.com/Arvln/LeetCode/tree/main/BFS/207.Course-Schedule)   
 [269.Alien-Dictionary](https://github.com/Arvln/LeetCode/tree/main/BFS/269.Alien-Dictionary)   
 [310.Minimum-Height-Trees](https://github.com/Arvln/LeetCode/tree/main/BFS/310.Minimum-Height-Trees)   
+[1443.Minimum-Time-to-Collect-All-Apples-in-a-Tree](https://github.com/Arvln/LeetCode/tree/main/BFS/1443.Minimum-Time-to-Collect-All-Apples-in-a-Tree)   
 * ``Dijkstra (BFS+PQ)``   
 [743.Network-Delay-Time](https://github.com/Arvln/LeetCode/tree/main/BFS/743.Network-Delay-Time)   
 
