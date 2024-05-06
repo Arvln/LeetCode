@@ -60,6 +60,7 @@
 [236.Lowest-CommonAncestor-of-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/236.Lowest-CommonAncestor-of-a-Binary-Tree)   
 [270.Closest-Binary-Search-Tree-Value](https://github.com/Arvln/LeetCode/tree/main/Tree/270.Closest-Binary-Search-Tree-Value)   
 [297.Serialize-and-Deserialize-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/297.Serialize-and-Deserialize-Binary-Tree)   
+[298.Binary-Tree-Longest-Consecutive-Sequence](https://github.com/Arvln/LeetCode/tree/main/Tree/298.Binary-Tree-Longest-Consecutive-Sequence)   
 [404.Sum-of-Left-Leaves](https://github.com/Arvln/LeetCode/tree/main/Tree/404.Sum-of-Left-Leaves)   
 [437.Path-Sum-III](https://github.com/Arvln/LeetCode/tree/main/Tree/437.Path-Sum-III)   
 [515.Find-Largest-Value-in-Each-Tree-Row](https://github.com/Arvln/LeetCode/tree/main/Tree/515.Find-Largest-Value-in-Each-Tree-Row)   
