@@ -12,29 +12,28 @@ II. 以鄰接太平洋、大西洋格子推導可以流到海洋的格子
 ```
 for (int i=0; i<m; i++)
 {
-    dfs(i, 0, INT_MIN, heights, pac);
-    dfs(i, n-1, INT_MIN, heights, alt);
+  dfs(pac, i, 0, INT_MIN);
+  dfs(atl, i, n-1, INT_MIN);
 }
 for (int j=0; j<n; j++)
 {
-    dfs(0, j, INT_MIN, heights, pac);
-    dfs(m-1, j, INT_MIN, heights, alt);
+  dfs(pac, 0, j, INT_MIN);
+  dfs(atl, m-1, j, INT_MIN);
 }
 ```
 
-從四個方向做擴散，避免越界問題，sea 向量標記是否可流到大海並起到遍歷圖時 visited 數組防止走回頭路的功能
+從四個方向做擴散，避免越界問題，visited 向量標記是否可流到大海並起到防止走回頭路的功能
 
 ```
-void dfs(int i, int j, int height, vector<vector<int>>& heights, vector<vector<int>>& sea)
+void dfs(vector<vector<int>> &visited, int i, int j, int preHeight)
 {
     if (i<0||j<0||i>=m||j>=n) return;
-    if (sea[i][j]||height>heights[i][j]) return;
+    else if (visited[i][j]==1) return;
+    else if (preHeight>heights[i][j]) return;
+    visited[i][j]=1;
 
-    sea[i][j]=1;
-    dfs(i-1, j, heights[i][j], heights, sea);
-    dfs(i+1, j, heights[i][j], heights, sea);
-    dfs(i, j-1, heights[i][j], heights, sea);
-    dfs(i, j+1, heights[i][j], heights, sea);
+    for (auto dir : dirs)
+        dfs(visited, i+dir[0], j+dir[1], heights[i][j]);
 }
 ```
 
