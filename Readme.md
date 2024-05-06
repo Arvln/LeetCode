@@ -1,4 +1,5 @@
 #### [Two Pointers](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers)
+[26.Remove-Duplicates-from-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/26.Remove-Duplicates-from-Sorted-Array)   
 [88.Merge-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/88.Merge-Sorted-Array)   
 [167.Two-Sum-II-Input-Array-Is-Sorted](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/167.Two-Sum-II-Input-Array-Is-Sorted)   
 [240.Search-a-2D-Matrix-II](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/240.Search-a-2D-Matrix-II)   
