@@ -185,6 +185,7 @@
 [191.Number-of-1-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/191.Number-of-1-Bits)   
 [260.Single-Number-III](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/260.Single-Number-III)   
 [338.Counting-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/338.Counting-Bits)   
+[645.Set-Mismatch](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/645.Set-Mismatch)   
 
 #### [String](https://github.com/Arvln/LeetCode/tree/main/String)
 [8.String-to-Integer](https://github.com/Arvln/LeetCode/tree/main/String/8.String-to-Integer)   
