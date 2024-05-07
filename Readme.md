@@ -117,6 +117,7 @@
 #### [Priority Queue](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue)
 [451.Sort-Characters-By-Frequency](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/451.Sort-Characters-By-Frequency)   
 * ``Arrangement with Stride``   
+[621.Task-Scheduler](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/621.Task-Scheduler)   
 [984.String-Without-AAA-or-BBB](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/984.String-Without-AAA-or-BBB)   
 [1054.Distant-Barcodes](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/1054.Distant-Barcodes)   
 [1405.Longest-Happy-String](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/1405.Longest-Happy-String)   
