@@ -91,6 +91,9 @@
 [1448.Count-Good-Nodes-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1448.Count-Good-Nodes-in-Binary-Tree)   
 [1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree)   
 
+#### [Binary_Index_Tree](https://github.com/Arvln/LeetCode/tree/main/Binary_Index_Tree)
+[307.Range-Sum-Query-Mutable](https://github.com/Arvln/LeetCode/tree/main/Binary_Index_Tree/307.Range-Sum-Query-Mutable)   
+
 #### [Design](https://github.com/Arvln/LeetCode/tree/main/Design)
 [380.Insert-Delete-GetRandom-O(1)](https://github.com/Arvln/LeetCode/tree/main/Design/380.Insert-Delete-GetRandom-O(1))   
 [981.Time-Based-Key-Value-Store](https://github.com/Arvln/LeetCode/tree/main/Design/981.Time-Based-Key-Value-Store)   
