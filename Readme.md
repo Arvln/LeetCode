@@ -163,6 +163,7 @@
 [743.Network-Delay-Time](https://github.com/Arvln/LeetCode/tree/main/BFS/743.Network-Delay-Time)   
 
 #### [Trie](https://github.com/Arvln/LeetCode/tree/main/Trie)
+[14.Longest-Common-Prefix](https://github.com/Arvln/LeetCode/tree/main/Trie/14.Longest-Common-Prefix)   
 [211.Design-Add-and-Search-Words-Data-Structure](https://github.com/Arvln/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)   
 [648.Replace-Words](https://github.com/Arvln/LeetCode/tree/main/Trie/648.Replace-Words)   
 [677.Map-Sum-Pairs](https://github.com/Arvln/LeetCode/tree/main/Trie/677.Map-Sum-Pairs)   
