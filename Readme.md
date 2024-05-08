@@ -13,6 +13,7 @@
 [209.Minimum-Size-Subarray-Sum](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/209.Minimum-Size-Subarray-Sum)   
 [395.Longest-Substring-with-At-Least-K-Repeating-Characters](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/395.Longest-Substring-with-At-Least-K-Repeating-Characters)   
 [438.Find-All-Anagrams-in-a-String](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/438.Find-All-Anagrams-in-a-String)   
+[487.Max-Consecutive-Ones-II](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/487.Max-Consecutive-Ones-II)   
 [567.Permutation-in-String](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/567.Permutation-in-String)   
 [1004.Max-Consecutive-Ones-III](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/1004.Max-Consecutive-Ones-III)   
 [1438.Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/1438.Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit)   
