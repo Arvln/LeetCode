@@ -201,6 +201,7 @@
 [674.Longest-Continuous-Increasing-Subsequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/674.Longest-Continuous-Increasing-Subsequence)   
 [746.Min-Cost-Climbing-Stairs](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/746.Min-Cost-Climbing-Stairs)   
 [918.Maximum-Sum-Circular-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/918.Maximum-Sum-Circular-Subarray)   
+[931.Minimum-Falling-Path-Sum](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/931.Minimum-Falling-Path-Sum)   
 * ``Basic II``   
 [96.Unique-Binary-Search-Trees](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/96.Unique-Binary-Search-Trees)   
 * ``Double Sequence``   
