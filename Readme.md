@@ -38,6 +38,7 @@
 [169.Majority-Element](https://github.com/Arvln/LeetCode/tree/main/Hash/169.Majority-Element)   
 [202.Happy-Number](https://github.com/Arvln/LeetCode/tree/main/Hash/202.Happy-Number)   
 [219.Contains-Duplicate-II](https://github.com/Arvln/LeetCode/tree/main/Hash/219.Contains-Duplicate-II)   
+[349.Intersection-of-Two-Arrays](https://github.com/Arvln/LeetCode/tree/main/Hash/349.Intersection-of-Two-Arrays)   
 [383.Ransom-Note](https://github.com/Arvln/LeetCode/tree/main/Hash/383.Ransom-Note)   
 [454.4Sum-II](https://github.com/Arvln/LeetCode/tree/main/Hash/454.4Sum-II)   
 
