@@ -127,7 +127,7 @@
 [739.Daily-Temperatures](https://github.com/Arvln/LeetCode/tree/main/Stack/739.Daily-Temperatures)   
 [901.Online-Stock-Span](https://github.com/Arvln/LeetCode/tree/main/Stack/901.Online-Stock-Span)   
 [1944.Number-of-Visible-People-in-a-Queue](https://github.com/Arvln/LeetCode/tree/main/Stack/1944.Number-of-Visible-People-in-a-Queue)   
-* ``form smallest sequence``   
+* ``Form smallest Sequence``   
 [402.Remove-K-Digits](https://github.com/Arvln/LeetCode/tree/main/Stack/402.Remove-K-Digits)   
 
 #### [Priority Queue](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue)
@@ -168,7 +168,7 @@
 [301.Remove-Invalid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/DFS/301.Remove-Invalid-Parentheses)   
 [491.Non-decreasing-Subsequences](https://github.com/Arvln/LeetCode/tree/main/DFS/491.Non-decreasing-Subsequences)   
 [698.Partition-to-K-Equal-Sum-Subsets](https://github.com/Arvln/LeetCode/tree/main/DFS/698.Partition-to-K-Equal-Sum-Subsets)   
-* ``memorization``   
+* ``Memorization``   
 [329.Longest-Increasing-Path-in-a-Matrix](https://github.com/Arvln/LeetCode/tree/main/DFS/329.Longest-Increasing-Path-in-a-Matrix)   
 
 #### [BFS](https://github.com/Arvln/LeetCode/tree/main/BFS)
@@ -222,6 +222,8 @@
 [5.Longest-Palindromic-Substring](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/5.Longest-Palindromic-Substring)   
 * ``Knapsack``   
 [518.Coin-Change-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Knapsack/518.Coin-Change-II)   
+* ``Maximum Subarray``   
+[53.Maximum-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/53.Maximum-Subarray)   
 
 #### [Bit Manipulation](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation)   
 [136.Single-Number](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/136.Single-Number)   
