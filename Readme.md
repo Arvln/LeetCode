@@ -241,6 +241,7 @@
 [721.Accounts-Merge](https://github.com/Arvln/LeetCode/tree/main/Union_Find/721.Accounts-Merge)   
 [765.Couples-Holding-Hands](https://github.com/Arvln/LeetCode/tree/main/Union_Find/765.Couples-Holding-Hands)   
 [947.Most-Stones-Removed-with-Same-Row-or-Column](https://github.com/Arvln/LeetCode/tree/main/Union_Find/947.Most-Stones-Removed-with-Same-Row-or-Column)   
+[990.Satisfiability-of-Equality-Equations](https://github.com/Arvln/LeetCode/tree/main/Union_Find/990.Satisfiability-of-Equality-Equations)   
 [1971.Find-if-Path-Exists-in-Graph](https://github.com/Arvln/LeetCode/tree/main/Union_Find/1971.Find-if-Path-Exists-in-Graph)   
 * ``MST``   
 [1135.Connecting-Cities-With-Minimum-Cost](https://github.com/Arvln/LeetCode/tree/main/Union_Find/1135.Connecting-Cities-With-Minimum-Cost)   
