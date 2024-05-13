@@ -220,6 +220,8 @@
 [583.Delete-Operation-for-Two-Strings](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/583.Delete-Operation-for-Two-Strings)   
 [718.Maximum-Length-of-Repeated-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/718.Maximum-Length-of-Repeated-Subarray)   
 [1143.Longest-Common-Subsequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1143.Longest-Common-Subsequence)   
+* ``Interval I``   
+[1335.Minimum-Difficulty-of-a-Job-Schedule](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/1335.Minimum-Difficulty-of-a-Job-Schedule)   
 * ``Interval II``   
 [5.Longest-Palindromic-Substring](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/5.Longest-Palindromic-Substring)   
 * ``Knapsack``   
