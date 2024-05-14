@@ -134,6 +134,8 @@
 #### [Priority Queue](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue)
 [451.Sort-Characters-By-Frequency](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/451.Sort-Characters-By-Frequency)   
 [1845.Seat-Reservation-Manager](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/1845.Seat-Reservation-Manager)   
+* ``Dual PQ``   
+[2402.Meeting-Rooms-III](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/2402.Meeting-Rooms-III)   
 * ``Arrangement with Stride``   
 [621.Task-Scheduler](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/621.Task-Scheduler)   
 [984.String-Without-AAA-or-BBB](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/984.String-Without-AAA-or-BBB)   
