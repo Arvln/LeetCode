@@ -8,18 +8,18 @@ public:
         for (int i=1; i<=n; i++)
             for (int k=1; k<=min(i, K); k++)
                 for (int j=k; j<=i; j++)
-                    dp[i][k]=min(dp[i][k], dp[j-1][k-1]+to_palindrome(s, j, i));
+                    dp[i][k]=min(dp[i][k], dp[j-1][k-1]+count(s, j, i));
                 
         return dp[n][K];
     }
-    int to_palindrome(string s, int a, int b)
+    int count(string &s, int a, int b)
     {
-        int count=0;
+        int ret=0;
         while (a<b)
         {
-            if (s[a]!=s[b]) count+=1;
+            if (s[a]!=s[b]) ret+=1;
             a++, b--;
         }
-        return count;
+        return ret;
     }
 };
