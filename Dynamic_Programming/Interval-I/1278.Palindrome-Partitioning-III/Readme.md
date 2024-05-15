@@ -1,35 +1,45 @@
 # 1278.Palindrome-Partitioning-III
 
-求最值的問題思路往 dp 靠，直接把要求的結果當作 dp 數組的定義
+題意明示要將所有元素分成k份，這類問題通常要從最後一份開始著手。
+
+- 對於最後一份可以做哪些選擇？
 
 ```
-dp[i][k]: the minimal number of characters that you need to change to divide the string into k non-empty disjoint substrings such that each substring is a palindrome
+[X X X X X X X X] [j X X X i]
 ```
 
-對於第 i 個元素找出最後一份的起始點 j 計算最後一份要改幾個字符可以形成回文串
+求出最後一份字串修改為回文所需操作數，再加上前面k-1份字串修改為回文所需最小操作數。
+
+- 思考需要哪些狀態？
+
+標示當前元素位置i跟分割份數k。
+
+- 定義dp數組含義。
 
 ```
-X X X X X X X [j X X X i]
-
-to_palindrome(s[j:i]);
+dp[i][k]: the minimal number of characters that you need to change to divide the string[1:i] into k non-empty disjoint substrings such that each substring is a palindrome.
 ```
 
-推出狀態轉移方程
+- 推導狀態轉移方程。
 
 ```
 dp[i][k]=min{ dp[j-1][k-1]+to_palindrome(s[j:i]) } for j=k .. i
 ```
 
-處理邊界問題及初始值，總共有 i 個元素，最多可以分成 min(i, K) 份，前 k-1 份最少要各有一個元素，j 最多可以從 k 開始切分
+實際遍歷時注意越界問題，要保證dp[i][k]是有意義的，i>=k代表i字符最多分成k份子串，因此遍歷k時取min(i, K)作為上界。同理j-1>=k-1，至少要有k-1個字符才能分成k-1份子串，因此遍歷j時取k為下界。
+
+- 如何計算最後一份子串修改為回文字串所需操作數?
+
+直接寫一個helper函數計算最簡單，缺點是每次都要重新調用該函數，效率偏低。可以把這問題視為另一個區間dp問題預計算所需操作數。
+
+- 設定邊界條件及dp數組初始值。
+
+要求最小值，dp初值給最大值、空字串分0份修改為回文最小操作數為0作為初始條件。
 
 ```
 dp[0][0]=0;
-for (int i=1; i<=n; i++)
-  for (int k=1; k<=min(i, K); k++)
-    for (int j=k; j<=i; j++)
-      dp[i][k]=min(dp[i][k], dp[j-1][k-1]+to_palindrome(s, j, i));
 ```
 
-返回第 n-1 個元素切分為 K 份的 dp 值
+- 得出結論
 
-dp[n][K]
+整串字串切分為K份修改為回文最小操作數為dp[n][K]。
