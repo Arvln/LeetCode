@@ -272,6 +272,9 @@
 #### [Recursion](https://github.com/Arvln/LeetCode/tree/main/Recursion)
 [395.Longest-Substring-with-At-Least-K-Repeating-Characters](https://github.com/Arvln/LeetCode/tree/main/Recursion/395.Longest-Substring-with-At-Least-K-Repeating-Characters)   
 
+#### [Graph](https://github.com/Arvln/LeetCode/tree/main/Graph)
+[332.Reconstruct-Itinerary](https://github.com/Arvln/LeetCode/tree/main/Graph/332.Reconstruct-Itinerary)   
+
 #### [Math](https://github.com/Arvln/LeetCode/tree/main/Math)
 [50.Pow](https://github.com/Arvln/LeetCode/tree/main/Math/50.Pow)   
 [528.Random-Pick-with-Weight](https://github.com/Arvln/LeetCode/tree/main/Math/528.Random-Pick-with-Weight)   
