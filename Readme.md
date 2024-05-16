@@ -305,6 +305,7 @@
 [1249.Minimum-Remove-to-Make-Valid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/Greedy/1249.Minimum-Remove-to-Make-Valid-Parentheses)   
 
 #### [Others](https://github.com/Arvln/LeetCode/tree/main/Others)
+[7.Reverse-Integer](https://github.com/Arvln/LeetCode/tree/main/Others/7.Reverse-Integer)   
 [9.Palindrome-Number](https://github.com/Arvln/LeetCode/tree/main/Others/9.Palindrome-Number)   
 [54.Spiral-Matrix](https://github.com/Arvln/LeetCode/tree/main/Others/54.Spiral-Matrix)   
 [59.Spiral-Matrix-II](https://github.com/Arvln/LeetCode/tree/main/Others/59.Spiral-Matrix-II)   
