@@ -252,6 +252,7 @@
 [191.Number-of-1-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/191.Number-of-1-Bits)   
 [231.Power-of-Two](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/231.Power-of-Two)   
 [260.Single-Number-III](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/260.Single-Number-III)   
+[268.Missing-Number](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/268.Missing-Number)   
 [338.Counting-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/338.Counting-Bits)   
 [645.Set-Mismatch](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/645.Set-Mismatch)   
 
