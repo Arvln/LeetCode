@@ -313,4 +313,5 @@
 * ``Presum``   
 [724.Find-Pivot-Index](https://github.com/Arvln/LeetCode/tree/main/Others/724.Find-Pivot-Index)   
 * ``2D Presum``   
+[304.Range-Sum-Query-2D-Immutable](https://github.com/Arvln/LeetCode/tree/main/Others/304.Range-Sum-Query-2D-Immutable)   
 [1314.Matrix-Block-Sum](https://github.com/Arvln/LeetCode/tree/main/Others/1314.Matrix-Block-Sum)   
