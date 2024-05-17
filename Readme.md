@@ -237,6 +237,7 @@
 * ``Basic II``   
 [96.Unique-Binary-Search-Trees](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/96.Unique-Binary-Search-Trees)   
 [354.Russian-Doll-Envelopes](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/354.Russian-Doll-Envelopes)   
+[1696.Jump-Game-VI](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/1696.Jump-Game-VI)   
 * ``Double Sequence``   
 [97.Interleaving-String](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/97.Interleaving-String)   
 [583.Delete-Operation-for-Two-Strings](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/583.Delete-Operation-for-Two-Strings)   
