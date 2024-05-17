@@ -25,6 +25,7 @@
 [34.Find-First-and-Last-Position-of-Element-in-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/34.Find-First-and-Last-Position-of-Element-in-Sorted-Array)   
 [153.Find-Minimum-in-Rotated-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/153.Find-Minimum-in-Rotated-Sorted-Array)   
 [278.First-Bad-Version](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/278.First-Bad-Version)   
+[658.Find-K-Closest-Elements](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/658.Find-K-Closest-Elements)   
 [704.Binary-Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/704.Binary-Search)   
 * ``Binary Search by Value``   
 [1011.Capacity-To-Ship-Packages-Within-D-Days](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1011.Capacity-To-Ship-Packages-Within-D-Days)   
