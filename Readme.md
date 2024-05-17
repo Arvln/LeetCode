@@ -73,7 +73,6 @@
 [199.Binary-Tree-Right-Side-View](https://github.com/Arvln/LeetCode/tree/main/Tree/199.Binary-Tree-Right-Side-View)   
 [222.Count-Complete-Tree-Nodes](https://github.com/Arvln/LeetCode/tree/main/Tree/222.Count-Complete-Tree-Nodes)   
 [230.Kth-Smallest-Element-in-a-BST](https://github.com/Arvln/LeetCode/tree/main/Tree/230.Kth-Smallest-Element-in-a-BST)   
-[236.Lowest-Common-Ancestor-of-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/236.Lowest-Common-Ancestor-of-a-Binary-Tree)   
 [250.Count-Univalue-Subtrees](https://github.com/Arvln/LeetCode/tree/main/Tree/250.Count-Univalue-Subtrees)   
 [270.Closest-Binary-Search-Tree-Value](https://github.com/Arvln/LeetCode/tree/main/Tree/270.Closest-Binary-Search-Tree-Value)   
 [297.Serialize-and-Deserialize-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/297.Serialize-and-Deserialize-Binary-Tree)   
@@ -115,6 +114,10 @@
 [1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree)   
 [1485.Clone-Binary-Tree-With-Random-Pointer](https://github.com/Arvln/LeetCode/tree/main/Tree/1485.Clone-Binary-Tree-With-Random-Pointer)   
 [2049.Count-Nodes-With-the-Highest-Score](https://github.com/Arvln/LeetCode/tree/main/Tree/2049.Count-Nodes-With-the-Highest-Score)   
+* ``LCA``   
+[236.Lowest-Common-Ancestor-of-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/236.Lowest-Common-Ancestor-of-a-Binary-Tree)   
+[1740.Find-Distance-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1740.Find-Distance-in-a-Binary-Tree)   
+
 
 #### [Binary_Index_Tree](https://github.com/Arvln/LeetCode/tree/main/Binary_Index_Tree)
 [307.Range-Sum-Query-Mutable](https://github.com/Arvln/LeetCode/tree/main/Binary_Index_Tree/307.Range-Sum-Query-Mutable)   
