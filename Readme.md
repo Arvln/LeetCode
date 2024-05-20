@@ -254,6 +254,7 @@
 [1335.Minimum-Difficulty-of-a-Job-Schedule](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/1335.Minimum-Difficulty-of-a-Job-Schedule)   
 * ``Interval II``   
 [5.Longest-Palindromic-Substring](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/5.Longest-Palindromic-Substring)   
+[375.Guess-Number-Higher-or-Lower-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/375.Guess-Number-Higher-or-Lower-II)   
 * ``Knapsack``   
 [518.Coin-Change-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Knapsack/518.Coin-Change-II)   
 * ``Maximum Subarray``   
