@@ -208,6 +208,7 @@
 [1443.Minimum-Time-to-Collect-All-Apples-in-a-Tree](https://github.com/Arvln/LeetCode/tree/main/BFS/1443.Minimum-Time-to-Collect-All-Apples-in-a-Tree)   
 * ``Dijkstra (BFS+PQ)``   
 [743.Network-Delay-Time](https://github.com/Arvln/LeetCode/tree/main/BFS/743.Network-Delay-Time)   
+[1514.Path-with-Maximum-Probability](https://github.com/Arvln/LeetCode/tree/main/BFS/1514.Path-with-Maximum-Probability)   
 
 #### [Trie](https://github.com/Arvln/LeetCode/tree/main/Trie)
 [14.Longest-Common-Prefix](https://github.com/Arvln/LeetCode/tree/main/Trie/14.Longest-Common-Prefix)   
