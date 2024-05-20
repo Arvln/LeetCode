@@ -85,6 +85,7 @@
 [538.Convert-BST-to-Greater-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/538.Convert-BST-to-Greater-Tree)   
 [559.Maximum-Depth-of-N-ary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/559.Maximum-Depth-of-N-ary-Tree)   
 [572.Subtree-of-Another-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/572.Subtree-of-Another-Tree)   
+[589.N-ary-Tree-Preorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/589.N-ary-Tree-Preorder-Traversal)   
 [590.N-ary-Tree-Postorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/590.N-ary-Tree-Postorder-Traversal)   
 [617.Merge-Two-Binary-Trees](https://github.com/Arvln/LeetCode/tree/main/Tree/617.Merge-Two-Binary-Trees)   
 [654.Maximum-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/654.Maximum-Binary-Tree)   
