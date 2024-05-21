@@ -297,6 +297,7 @@
 [1971.Find-if-Path-Exists-in-Graph](https://github.com/Arvln/LeetCode/tree/main/Union_Find/1971.Find-if-Path-Exists-in-Graph)   
 * ``MST``   
 [1135.Connecting-Cities-With-Minimum-Cost](https://github.com/Arvln/LeetCode/tree/main/Union_Find/1135.Connecting-Cities-With-Minimum-Cost)   
+[1584.Min-Cost-to-Connect-All-Points](https://github.com/Arvln/LeetCode/tree/main/Union_Find/1584.Min-Cost-to-Connect-All-Points)   
 
 #### [Recursion](https://github.com/Arvln/LeetCode/tree/main/Recursion)
 [395.Longest-Substring-with-At-Least-K-Repeating-Characters](https://github.com/Arvln/LeetCode/tree/main/Recursion/395.Longest-Substring-with-At-Least-K-Repeating-Characters)   
