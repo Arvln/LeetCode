@@ -335,6 +335,7 @@
 [370.Range-Addition](https://github.com/Arvln/LeetCode/tree/main/Others/370.Range-Addition)   
 [1094.Car-Pooling](https://github.com/Arvln/LeetCode/tree/main/Others/1094.Car-Pooling)   
 * ``Presum``   
+[560.Subarray-Sum-Equals-K](https://github.com/Arvln/LeetCode/tree/main/Others/560.Subarray-Sum-Equals-K)   
 [724.Find-Pivot-Index](https://github.com/Arvln/LeetCode/tree/main/Others/724.Find-Pivot-Index)   
 * ``2D Presum``   
 [304.Range-Sum-Query-2D-Immutable](https://github.com/Arvln/LeetCode/tree/main/Others/304.Range-Sum-Query-2D-Immutable)   
