@@ -83,6 +83,7 @@
 [515.Find-Largest-Value-in-Each-Tree-Row](https://github.com/Arvln/LeetCode/tree/main/Tree/515.Find-Largest-Value-in-Each-Tree-Row)   
 [530.Minimum-Absolute-Difference-in-BST](https://github.com/Arvln/LeetCode/tree/main/Tree/530.Minimum-Absolute-Difference-in-BST)   
 [538.Convert-BST-to-Greater-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/538.Convert-BST-to-Greater-Tree)   
+[549.Binary-Tree-Longest-Consecutive-Sequence-II](https://github.com/Arvln/LeetCode/tree/main/Tree/549.Binary-Tree-Longest-Consecutive-Sequence-II)   
 [559.Maximum-Depth-of-N-ary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/559.Maximum-Depth-of-N-ary-Tree)   
 [572.Subtree-of-Another-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/572.Subtree-of-Another-Tree)   
 [589.N-ary-Tree-Preorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/589.N-ary-Tree-Preorder-Traversal)   
