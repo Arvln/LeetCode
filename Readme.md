@@ -122,6 +122,7 @@
 [2049.Count-Nodes-With-the-Highest-Score](https://github.com/Arvln/LeetCode/tree/main/Tree/2049.Count-Nodes-With-the-Highest-Score)   
 * ``LCA``   
 [236.Lowest-Common-Ancestor-of-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/236.Lowest-Common-Ancestor-of-a-Binary-Tree)   
+[1676.Lowest-Common-Ancestor-of-a-Binary-Tree-IV](https://github.com/Arvln/LeetCode/tree/main/Tree/1676.Lowest-Common-Ancestor-of-a-Binary-Tree-IV)   
 [1740.Find-Distance-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1740.Find-Distance-in-a-Binary-Tree)   
 
 
