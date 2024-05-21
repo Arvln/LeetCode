@@ -114,6 +114,7 @@
 [1261.Find-Elements-in-a-Contaminated-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1261.Find-Elements-in-a-Contaminated-Binary-Tree)   
 [1315.Sum-of-Nodes-with-Even-Valued-Grandparent](https://github.com/Arvln/LeetCode/tree/main/Tree/1315.Sum-of-Nodes-with-Even-Valued-Grandparent)   
 [1339.Maximum-Product-of-Splitted-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1339.Maximum-Product-of-Splitted-Binary-Tree)   
+[1367.Linked-List-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1367.Linked-List-in-Binary-Tree)   
 [1448.Count-Good-Nodes-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1448.Count-Good-Nodes-in-Binary-Tree)   
 [1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree)   
 [1485.Clone-Binary-Tree-With-Random-Pointer](https://github.com/Arvln/LeetCode/tree/main/Tree/1485.Clone-Binary-Tree-With-Random-Pointer)   
