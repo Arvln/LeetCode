@@ -96,6 +96,7 @@
 [589.N-ary-Tree-Preorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/589.N-ary-Tree-Preorder-Traversal)   
 [590.N-ary-Tree-Postorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/590.N-ary-Tree-Postorder-Traversal)   
 [617.Merge-Two-Binary-Trees](https://github.com/Arvln/LeetCode/tree/main/Tree/617.Merge-Two-Binary-Trees)   
+[637.Average-of-Levels-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/637.Average-of-Levels-in-Binary-Tree)   
 [654.Maximum-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/654.Maximum-Binary-Tree)   
 [666.Path-Sum-IV](https://github.com/Arvln/LeetCode/tree/main/Tree/666.Path-Sum-IV)   
 [669.Trim-a-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/669.Trim-a-Binary-Search-Tree)   
