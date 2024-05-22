@@ -290,6 +290,7 @@
 [8.String-to-Integer](https://github.com/Arvln/LeetCode/tree/main/String/8.String-to-Integer)   
 [28.Find-the-Index-of-the-First-Occurrence-in-a-String](https://github.com/Arvln/LeetCode/tree/main/String/28.Find-the-Index-of-the-First-Occurrence-in-a-String)   
 [151.Reverse-Words-in-a-String](https://github.com/Arvln/LeetCode/tree/main/String/151.Reverse-Words-in-a-String)   
+[187.Repeated-DNA-Sequences](https://github.com/Arvln/LeetCode/tree/main/String/187.Repeated-DNA-Sequences)   
 [344.Reverse-String](https://github.com/Arvln/LeetCode/tree/main/String/344.Reverse-String)   
 [541.Reverse-String-II](https://github.com/Arvln/LeetCode/tree/main/String/541.Reverse-String-II)   
 
