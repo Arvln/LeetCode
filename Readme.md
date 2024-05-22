@@ -83,6 +83,7 @@
 [404.Sum-of-Left-Leaves](https://github.com/Arvln/LeetCode/tree/main/Tree/404.Sum-of-Left-Leaves)   
 [437.Path-Sum-III](https://github.com/Arvln/LeetCode/tree/main/Tree/437.Path-Sum-III)   
 [450.Delete-Node-in-a-BST](https://github.com/Arvln/LeetCode/tree/main/Tree/450.Delete-Node-in-a-BST)   
+[501.Find-Mode-in-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/501.Find-Mode-in-Binary-Search-Tree)   
 [513.FindBottom-Left-Tree-Value](https://github.com/Arvln/LeetCode/tree/main/Tree/513.FindBottom-Left-Tree-Value)   
 [515.Find-Largest-Value-in-Each-Tree-Row](https://github.com/Arvln/LeetCode/tree/main/Tree/515.Find-Largest-Value-in-Each-Tree-Row)   
 [530.Minimum-Absolute-Difference-in-BST](https://github.com/Arvln/LeetCode/tree/main/Tree/530.Minimum-Absolute-Difference-in-BST)   
