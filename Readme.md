@@ -144,6 +144,7 @@
 [1352.Product-of-the-Last-K-Numbers](https://github.com/Arvln/LeetCode/tree/main/Design/1352.Product-of-the-Last-K-Numbers)   
 
 #### [Divide and Conquer](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer)
+[315.Count-of-Smaller-Numbers-After-Self](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer/315.Count-of-Smaller-Numbers-After-Self)   
 [493.Reverse-Pairs](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer/493.Reverse-Pairs)   
 [1649.Create-Sorted-Array-through-Instructions](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer/1649.Create-Sorted-Array-through-Instructions)   
 
