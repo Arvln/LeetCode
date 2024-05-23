@@ -108,6 +108,7 @@
 [897.Increasing-Order-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/897.Increasing-Order-Search-Tree)   
 [912.Sort-an-Array](https://github.com/Arvln/LeetCode/tree/main/Tree/912.Sort-an-Array)   
 [951.Flip-Equivalent-Binary-Trees](https://github.com/Arvln/LeetCode/tree/main/Tree/951.Flip-Equivalent-Binary-Trees)   
+[965.Univalued-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/965.Univalued-Binary-Tree)   
 [968.Binary-Tree-Cameras](https://github.com/Arvln/LeetCode/tree/main/Tree/968.Binary-Tree-Cameras)   
 [971.Flip-Binary-Tree-To-Match-Preorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/971.Flip-Binary-Tree-To-Match-Preorder-Traversal)   
 [979.Distribute-Coins-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/979.Distribute-Coins-in-Binary-Tree)   
