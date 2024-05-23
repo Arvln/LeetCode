@@ -323,6 +323,7 @@
 
 #### [Graph](https://github.com/Arvln/LeetCode/tree/main/Graph)
 [332.Reconstruct-Itinerary](https://github.com/Arvln/LeetCode/tree/main/Graph/332.Reconstruct-Itinerary)   
+[886.Possible-Bipartition](https://github.com/Arvln/LeetCode/tree/main/Graph/886.Possible-Bipartition)   
 
 #### [Math](https://github.com/Arvln/LeetCode/tree/main/Math)
 [50.Pow](https://github.com/Arvln/LeetCode/tree/main/Math/50.Pow)   
