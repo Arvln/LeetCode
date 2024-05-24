@@ -32,6 +32,7 @@
 * ``Binary Search by Value``   
 [1011.Capacity-To-Ship-Packages-Within-D-Days](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1011.Capacity-To-Ship-Packages-Within-D-Days)   
 [1201.Ugly-Number-III](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1201.Ugly-Number-III)   
+[1631.Path-With-Minimum-Effort](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1631.Path-With-Minimum-Effort)   
     * ``Find K-th Element``   
 [378.Kth-Smallest-Element-in-a-Sorted-Matrix](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/378.Kth-Smallest-Element-in-a-Sorted-Matrix)   
 [692.Top-K-Frequent-Words](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/692.Top-K-Frequent-Words)   
@@ -230,6 +231,7 @@
 * ``Dijkstra (BFS+PQ)``   
 [743.Network-Delay-Time](https://github.com/Arvln/LeetCode/tree/main/BFS/743.Network-Delay-Time)   
 [1514.Path-with-Maximum-Probability](https://github.com/Arvln/LeetCode/tree/main/BFS/1514.Path-with-Maximum-Probability)   
+[1631.Path-With-Minimum-Effort](https://github.com/Arvln/LeetCode/tree/main/BFS/1631.Path-With-Minimum-Effort)   
 
 #### [Trie](https://github.com/Arvln/LeetCode/tree/main/Trie)
 [14.Longest-Common-Prefix](https://github.com/Arvln/LeetCode/tree/main/Trie/14.Longest-Common-Prefix)   
