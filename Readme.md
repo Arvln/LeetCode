@@ -158,6 +158,7 @@
 [84.Largest-Rectangle-in-Histogram](https://github.com/Arvln/LeetCode/tree/main/Stack/84.Largest-Rectangle-in-Histogram)   
 [739.Daily-Temperatures](https://github.com/Arvln/LeetCode/tree/main/Stack/739.Daily-Temperatures)   
 [901.Online-Stock-Span](https://github.com/Arvln/LeetCode/tree/main/Stack/901.Online-Stock-Span)   
+[1019.Next-Greater-Node-In-Linked-List](https://github.com/Arvln/LeetCode/tree/main/Stack/1019.Next-Greater-Node-In-Linked-List)   
 [1944.Number-of-Visible-People-in-a-Queue](https://github.com/Arvln/LeetCode/tree/main/Stack/1944.Number-of-Visible-People-in-a-Queue)   
 * ``Form smallest Sequence``   
 [402.Remove-K-Digits](https://github.com/Arvln/LeetCode/tree/main/Stack/402.Remove-K-Digits)   
