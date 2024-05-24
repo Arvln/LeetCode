@@ -29,6 +29,7 @@
 [278.First-Bad-Version](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/278.First-Bad-Version)   
 [658.Find-K-Closest-Elements](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/658.Find-K-Closest-Elements)   
 [704.Binary-Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/704.Binary-Search)   
+[852.Peak-Index-in-a-Mountain-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/852.Peak-Index-in-a-Mountain-Array)   
 * ``Binary Search by Value``   
 [1011.Capacity-To-Ship-Packages-Within-D-Days](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1011.Capacity-To-Ship-Packages-Within-D-Days)   
 [1201.Ugly-Number-III](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1201.Ugly-Number-III)   
