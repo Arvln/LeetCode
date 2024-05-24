@@ -157,6 +157,7 @@
 [844.Backspace-String-Compare](https://github.com/Arvln/LeetCode/tree/main/Stack/844.Backspace-String-Compare)   
 * ``Monotonic Stack: next greater / smaller``   
 [84.Largest-Rectangle-in-Histogram](https://github.com/Arvln/LeetCode/tree/main/Stack/84.Largest-Rectangle-in-Histogram)   
+[496.Next-Greater-Element-I](https://github.com/Arvln/LeetCode/tree/main/Stack/496.Next-Greater-Element-I)   
 [739.Daily-Temperatures](https://github.com/Arvln/LeetCode/tree/main/Stack/739.Daily-Temperatures)   
 [901.Online-Stock-Span](https://github.com/Arvln/LeetCode/tree/main/Stack/901.Online-Stock-Span)   
 [1019.Next-Greater-Node-In-Linked-List](https://github.com/Arvln/LeetCode/tree/main/Stack/1019.Next-Greater-Node-In-Linked-List)   
