@@ -168,6 +168,8 @@
 [1944.Number-of-Visible-People-in-a-Queue](https://github.com/Arvln/LeetCode/tree/main/Stack/1944.Number-of-Visible-People-in-a-Queue)   
 * ``Form smallest Sequence``   
 [402.Remove-K-Digits](https://github.com/Arvln/LeetCode/tree/main/Stack/402.Remove-K-Digits)   
+* ``parse expression``   
+[224.Basic-Calculator](https://github.com/Arvln/LeetCode/tree/main/Stack/224.Basic-Calculator)   
 
 #### [Priority Queue](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue)
 [451.Sort-Characters-By-Frequency](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/451.Sort-Characters-By-Frequency)   
