@@ -144,6 +144,8 @@
 [380.Insert-Delete-GetRandom-O(1)](https://github.com/Arvln/LeetCode/tree/main/Design/380.Insert-Delete-GetRandom-O(1))   
 [981.Time-Based-Key-Value-Store](https://github.com/Arvln/LeetCode/tree/main/Design/981.Time-Based-Key-Value-Store)   
 [1352.Product-of-the-Last-K-Numbers](https://github.com/Arvln/LeetCode/tree/main/Design/1352.Product-of-the-Last-K-Numbers)   
+* ``Linked List``   
+[146.LRU-Cache](https://github.com/Arvln/LeetCode/tree/main/Design/146.LRU-Cache)   
 
 #### [Divide and Conquer](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer)
 [315.Count-of-Smaller-Numbers-After-Self](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer/315.Count-of-Smaller-Numbers-After-Self)   
