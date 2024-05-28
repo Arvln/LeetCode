@@ -49,6 +49,10 @@
 [349.Intersection-of-Two-Arrays](https://github.com/Arvln/LeetCode/tree/main/Hash/349.Intersection-of-Two-Arrays)   
 [383.Ransom-Note](https://github.com/Arvln/LeetCode/tree/main/Hash/383.Ransom-Note)   
 [454.4Sum-II](https://github.com/Arvln/LeetCode/tree/main/Hash/454.4Sum-II)   
+* ``Hash+Prefix``   
+[525.Contiguous-Array](https://github.com/Arvln/LeetCode/tree/main/Hash/525.Contiguous-Array)   
+[560.Subarray-Sum-Equals-K](https://github.com/Arvln/LeetCode/tree/main/Hash/560.Subarray-Sum-Equals-K)   
+[974.Subarray-Sums-Divisible-by-K](https://github.com/Arvln/LeetCode/tree/main/Hash/974.Subarray-Sums-Divisible-by-K)   
 
 #### [Sorted Container](https://github.com/Arvln/LeetCode/tree/main/Sorted_Container)
 [23.Merge-k-Sorted-Lists](https://github.com/Arvln/LeetCode/tree/main/Sorted_Container/23.Merge-k-Sorted-Lists)   
@@ -383,8 +387,6 @@
 [1109.Corporate-Flight-Bookings](https://github.com/Arvln/LeetCode/tree/main/Others/1109.Corporate-Flight-Bookings)   
 * ``Presum``   
 [303.Range-Sum-Query-Immutable](https://github.com/Arvln/LeetCode/tree/main/Others/303.Range-Sum-Query-Immutable)   
-[525.Contiguous-Array](https://github.com/Arvln/LeetCode/tree/main/Others/525.Contiguous-Array)   
-[560.Subarray-Sum-Equals-K](https://github.com/Arvln/LeetCode/tree/main/Others/560.Subarray-Sum-Equals-K)   
 [724.Find-Pivot-Index](https://github.com/Arvln/LeetCode/tree/main/Others/724.Find-Pivot-Index)   
 * ``2D Presum``   
 [304.Range-Sum-Query-2D-Immutable](https://github.com/Arvln/LeetCode/tree/main/Others/304.Range-Sum-Query-2D-Immutable)   
