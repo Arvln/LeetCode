@@ -302,6 +302,7 @@
 [1696.Jump-Game-VI](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/1696.Jump-Game-VI)   
 * ``Double Sequence``   
 [97.Interleaving-String](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/97.Interleaving-String)   
+[115.Distinct-Subsequences](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/115.Distinct-Subsequences)   
 [392.Is-Subsequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/392.Is-Subsequence)   
 [583.Delete-Operation-for-Two-Strings](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/583.Delete-Operation-for-Two-Strings)   
 [718.Maximum-Length-of-Repeated-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/718.Maximum-Length-of-Repeated-Subarray)   
