@@ -115,6 +115,7 @@
 [663.Equal-Tree-Partition](https://github.com/Arvln/LeetCode/tree/main/Tree/663.Equal-Tree-Partition)   
 [666.Path-Sum-IV](https://github.com/Arvln/LeetCode/tree/main/Tree/666.Path-Sum-IV)   
 [669.Trim-a-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/669.Trim-a-Binary-Search-Tree)   
+[671.Second-Minimum-Node-In-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/671.Second-Minimum-Node-In-a-Binary-Tree)   
 [687.Longest-Univalue-Path](https://github.com/Arvln/LeetCode/tree/main/Tree/687.Longest-Univalue-Path)   
 [700.Search-in-a-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/700.Search-in-a-Binary-Search-Tree)   
 [701.Insert-into-a-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/701.Insert-into-a-Binary-Search-Tree)   
