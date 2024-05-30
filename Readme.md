@@ -294,6 +294,7 @@
 [746.Min-Cost-Climbing-Stairs](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/746.Min-Cost-Climbing-Stairs)   
 [918.Maximum-Sum-Circular-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/918.Maximum-Sum-Circular-Subarray)   
 [931.Minimum-Falling-Path-Sum](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/931.Minimum-Falling-Path-Sum)   
+[1186.Maximum-Subarray-Sum-with-One-Deletion](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/1186.Maximum-Subarray-Sum-with-One-Deletion)   
 * ``Basic II``   
 [96.Unique-Binary-Search-Trees](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/96.Unique-Binary-Search-Trees)   
 [279.Perfect-Squares](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/279.Perfect-Squares)   
