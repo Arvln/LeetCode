@@ -189,6 +189,9 @@
 [224.Basic-Calculator](https://github.com/Arvln/LeetCode/tree/main/Stack/224.Basic-Calculator)   
 [227.Basic-Calculator-II](https://github.com/Arvln/LeetCode/tree/main/Stack/227.Basic-Calculator-II)   
 
+#### [Deque](https://github.com/Arvln/LeetCode/tree/main/Deque)
+[862.Shortest-Subarray-with-Sum-at-Least-K](https://github.com/Arvln/LeetCode/tree/main/Deque/862.Shortest-Subarray-with-Sum-at-Least-K)   
+
 #### [Priority Queue](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue)
 [451.Sort-Characters-By-Frequency](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/451.Sort-Characters-By-Frequency)   
 [1845.Seat-Reservation-Manager](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/1845.Seat-Reservation-Manager)   
