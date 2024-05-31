@@ -168,6 +168,7 @@
 [1649.Create-Sorted-Array-through-Instructions](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer/1649.Create-Sorted-Array-through-Instructions)   
 
 #### [Stack](https://github.com/Arvln/LeetCode/tree/main/Stack)
+[67.Add-Binary](https://github.com/Arvln/LeetCode/tree/main/Stack/67.Add-Binary)   
 [155.Min-Stack](https://github.com/Arvln/LeetCode/tree/main/Stack/155.Min-Stack)   
 [225.Implement-Stack-using-Queues](https://github.com/Arvln/LeetCode/tree/main/Stack/225.Implement-Stack-using-Queues)   
 [232.Implement-Queue-using-Stacks](https://github.com/Arvln/LeetCode/tree/main/Stack/232.Implement-Queue-using-Stacks)   
