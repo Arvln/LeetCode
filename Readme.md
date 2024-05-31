@@ -400,6 +400,7 @@
 [921.Minimum-Add-to-Make-Parentheses-Valid](https://github.com/Arvln/LeetCode/tree/main/Greedy/921.Minimum-Add-to-Make-Parentheses-Valid)   
 [1047.Remove-All-Adjacent-Duplicates-In-String](https://github.com/Arvln/LeetCode/tree/main/Greedy/1047.Remove-All-Adjacent-Duplicates-In-String)   
 [1249.Minimum-Remove-to-Make-Valid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/Greedy/1249.Minimum-Remove-to-Make-Valid-Parentheses)   
+[1541.Minimum-Insertions-to-Balance-a-Parentheses-String](https://github.com/Arvln/LeetCode/tree/main/Greedy/1541.Minimum-Insertions-to-Balance-a-Parentheses-String)   
 
 #### [Others](https://github.com/Arvln/LeetCode/tree/main/Others)
 [7.Reverse-Integer](https://github.com/Arvln/LeetCode/tree/main/Others/7.Reverse-Integer)   
