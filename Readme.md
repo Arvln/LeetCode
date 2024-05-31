@@ -340,6 +340,7 @@
 [956.Tallest-Billboard](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Knapsack/956.Tallest-Billboard)   
 * ``Maximum Subarray``   
 [53.Maximum-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/53.Maximum-Subarray)   
+[152.Maximum-Product-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/152.Maximum-Product-Subarray)   
 
 #### [Bit Manipulation](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation)   
 [136.Single-Number](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/136.Single-Number)   
