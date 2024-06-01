@@ -192,6 +192,10 @@
 
 #### [Deque](https://github.com/Arvln/LeetCode/tree/main/Deque)
 [862.Shortest-Subarray-with-Sum-at-Least-K](https://github.com/Arvln/LeetCode/tree/main/Deque/862.Shortest-Subarray-with-Sum-at-Least-K)   
+[918.Maximum-Sum-Circular-Subarray](https://github.com/Arvln/LeetCode/tree/main/Deque/918.Maximum-Sum-Circular-Subarray)   
+[1425.Constrained-Subsequence-Sum](https://github.com/Arvln/LeetCode/tree/main/Deque/1425.Constrained-Subsequence-Sum)   
+[1438.Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit](https://github.com/Arvln/LeetCode/tree/main/Deque/1438.Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit)   
+[1696.Jump-Game-VI](https://github.com/Arvln/LeetCode/tree/main/Deque/1696.Jump-Game-VI)   
 
 #### [Priority Queue](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue)
 [451.Sort-Characters-By-Frequency](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/451.Sort-Characters-By-Frequency)   
