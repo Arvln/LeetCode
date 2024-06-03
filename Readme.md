@@ -163,6 +163,7 @@
 
 #### [Design](https://github.com/Arvln/LeetCode/tree/main/Design)
 [380.Insert-Delete-GetRandom-O(1)](https://github.com/Arvln/LeetCode/tree/main/Design/380.Insert-Delete-GetRandom-O(1))   
+[384.Shuffle-an-Array](https://github.com/Arvln/LeetCode/tree/main/Design/384.Shuffle-an-Array)   
 [981.Time-Based-Key-Value-Store](https://github.com/Arvln/LeetCode/tree/main/Design/981.Time-Based-Key-Value-Store)   
 [1352.Product-of-the-Last-K-Numbers](https://github.com/Arvln/LeetCode/tree/main/Design/1352.Product-of-the-Last-K-Numbers)   
 * ``Linked List``   
