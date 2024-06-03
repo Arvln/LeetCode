@@ -139,6 +139,7 @@
 [1110.Delete-Nodes-And-Return-Forest](https://github.com/Arvln/LeetCode/tree/main/Tree/1110.Delete-Nodes-And-Return-Forest)   
 [1261.Find-Elements-in-a-Contaminated-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1261.Find-Elements-in-a-Contaminated-Binary-Tree)   
 [1315.Sum-of-Nodes-with-Even-Valued-Grandparent](https://github.com/Arvln/LeetCode/tree/main/Tree/1315.Sum-of-Nodes-with-Even-Valued-Grandparent)   
+[1325.Delete-Leaves-With-a-Given-Value](https://github.com/Arvln/LeetCode/tree/main/Tree/1325.Delete-Leaves-With-a-Given-Value)   
 [1339.Maximum-Product-of-Splitted-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1339.Maximum-Product-of-Splitted-Binary-Tree)   
 [1367.Linked-List-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1367.Linked-List-in-Binary-Tree)   
 [1379.Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1379.Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree)   
