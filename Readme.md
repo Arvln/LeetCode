@@ -396,6 +396,7 @@
 
 #### [Math](https://github.com/Arvln/LeetCode/tree/main/Math)
 [50.Pow](https://github.com/Arvln/LeetCode/tree/main/Math/50.Pow)   
+[292.Nim-Game](https://github.com/Arvln/LeetCode/tree/main/Math/292.Nim-Game)   
 [372.Super-Pow](https://github.com/Arvln/LeetCode/tree/main/Math/372.Super-Pow)   
 * ``Random Pick``   
 [382.Linked-List-Random-Node](https://github.com/Arvln/LeetCode/tree/main/Math/382.Linked-List-Random-Node)   
