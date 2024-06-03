@@ -90,6 +90,7 @@
 [145.Binary-Tree-Postorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/145.Binary-Tree-Postorder-Traversal)   
 [199.Binary-Tree-Right-Side-View](https://github.com/Arvln/LeetCode/tree/main/Tree/199.Binary-Tree-Right-Side-View)   
 [222.Count-Complete-Tree-Nodes](https://github.com/Arvln/LeetCode/tree/main/Tree/222.Count-Complete-Tree-Nodes)   
+[226.Invert-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/226.Invert-Binary-Tree)   
 [230.Kth-Smallest-Element-in-a-BST](https://github.com/Arvln/LeetCode/tree/main/Tree/230.Kth-Smallest-Element-in-a-BST)   
 [250.Count-Univalue-Subtrees](https://github.com/Arvln/LeetCode/tree/main/Tree/250.Count-Univalue-Subtrees)   
 [270.Closest-Binary-Search-Tree-Value](https://github.com/Arvln/LeetCode/tree/main/Tree/270.Closest-Binary-Search-Tree-Value)   
