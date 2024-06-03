@@ -312,6 +312,7 @@
 * ``Basic II``   
 [96.Unique-Binary-Search-Trees](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/96.Unique-Binary-Search-Trees)   
 [279.Perfect-Squares](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/279.Perfect-Squares)   
+[313.Super-Ugly-Number](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/313.Super-Ugly-Number)   
 [354.Russian-Doll-Envelopes](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/354.Russian-Doll-Envelopes)   
 [673.Number-of-Longest-Increasing-Subsequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/673.Number-of-Longest-Increasing-Subsequence)   
 [983.Minimum-Cost-For-Tickets](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/983.Minimum-Cost-For-Tickets)   
