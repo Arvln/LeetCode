@@ -93,6 +93,7 @@
 [226.Invert-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/226.Invert-Binary-Tree)   
 [230.Kth-Smallest-Element-in-a-BST](https://github.com/Arvln/LeetCode/tree/main/Tree/230.Kth-Smallest-Element-in-a-BST)   
 [250.Count-Univalue-Subtrees](https://github.com/Arvln/LeetCode/tree/main/Tree/250.Count-Univalue-Subtrees)   
+[257.Binary-Tree-Paths](https://github.com/Arvln/LeetCode/tree/main/Tree/257.Binary-Tree-Paths)   
 [270.Closest-Binary-Search-Tree-Value](https://github.com/Arvln/LeetCode/tree/main/Tree/270.Closest-Binary-Search-Tree-Value)   
 [297.Serialize-and-Deserialize-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/297.Serialize-and-Deserialize-Binary-Tree)   
 [298.Binary-Tree-Longest-Consecutive-Sequence](https://github.com/Arvln/LeetCode/tree/main/Tree/298.Binary-Tree-Longest-Consecutive-Sequence)   
