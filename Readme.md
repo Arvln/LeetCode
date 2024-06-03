@@ -108,6 +108,7 @@
 [549.Binary-Tree-Longest-Consecutive-Sequence-II](https://github.com/Arvln/LeetCode/tree/main/Tree/549.Binary-Tree-Longest-Consecutive-Sequence-II)   
 [559.Maximum-Depth-of-N-ary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/559.Maximum-Depth-of-N-ary-Tree)   
 [572.Subtree-of-Another-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/572.Subtree-of-Another-Tree)   
+[582.Kill-Process](https://github.com/Arvln/LeetCode/tree/main/Tree/582.Kill-Process)   
 [589.N-ary-Tree-Preorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/589.N-ary-Tree-Preorder-Traversal)   
 [590.N-ary-Tree-Postorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/590.N-ary-Tree-Postorder-Traversal)   
 [617.Merge-Two-Binary-Trees](https://github.com/Arvln/LeetCode/tree/main/Tree/617.Merge-Two-Binary-Trees)   
