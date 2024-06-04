@@ -114,6 +114,7 @@
 [582.Kill-Process](https://github.com/Arvln/LeetCode/tree/main/Tree/582.Kill-Process)   
 [589.N-ary-Tree-Preorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/589.N-ary-Tree-Preorder-Traversal)   
 [590.N-ary-Tree-Postorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/590.N-ary-Tree-Postorder-Traversal)   
+[606.Construct-String-from-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/606.Construct-String-from-Binary-Tree)   
 [617.Merge-Two-Binary-Trees](https://github.com/Arvln/LeetCode/tree/main/Tree/617.Merge-Two-Binary-Trees)   
 [637.Average-of-Levels-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/637.Average-of-Levels-in-Binary-Tree)   
 [654.Maximum-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/654.Maximum-Binary-Tree)   
