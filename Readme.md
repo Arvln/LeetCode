@@ -2,6 +2,7 @@
 [16.3Sum-Closest](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/16.3Sum-Closest)   
 [26.Remove-Duplicates-from-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/26.Remove-Duplicates-from-Sorted-Array)   
 [27.Remove-Element](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/27.Remove-Element)   
+[42.Trapping-Rain-Water](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/42.Trapping-Rain-Water)   
 [75.Sort-Colors](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/75.Sort-Colors)   
 [88.Merge-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/88.Merge-Sorted-Array)   
 [125.Valid-Palindrome](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/125.Valid-Palindrome)   
@@ -184,6 +185,7 @@
 [445.Add-Two-Numbers-II](https://github.com/Arvln/LeetCode/tree/main/Stack/445.Add-Two-Numbers-II)   
 [844.Backspace-String-Compare](https://github.com/Arvln/LeetCode/tree/main/Stack/844.Backspace-String-Compare)   
 * ``Monotonic Stack: next greater / smaller``   
+[42.Trapping-Rain-Water](https://github.com/Arvln/LeetCode/tree/main/Stack/42.Trapping-Rain-Water)   
 [84.Largest-Rectangle-in-Histogram](https://github.com/Arvln/LeetCode/tree/main/Stack/84.Largest-Rectangle-in-Histogram)   
 [496.Next-Greater-Element-I](https://github.com/Arvln/LeetCode/tree/main/Stack/496.Next-Greater-Element-I)   
 [739.Daily-Temperatures](https://github.com/Arvln/LeetCode/tree/main/Stack/739.Daily-Temperatures)   
