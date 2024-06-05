@@ -157,6 +157,7 @@
 [1379.Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1379.Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree)   
 [1448.Count-Good-Nodes-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1448.Count-Good-Nodes-in-Binary-Tree)   
 [1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree)   
+[1469.Find-All-the-Lonely-Nodes](https://github.com/Arvln/LeetCode/tree/main/Tree/1469.Find-All-the-Lonely-Nodes)   
 [1485.Clone-Binary-Tree-With-Random-Pointer](https://github.com/Arvln/LeetCode/tree/main/Tree/1485.Clone-Binary-Tree-With-Random-Pointer)   
 [1602.Find-Nearest-Right-Node-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1602.Find-Nearest-Right-Node-in-Binary-Tree)   
 [2049.Count-Nodes-With-the-Highest-Score](https://github.com/Arvln/LeetCode/tree/main/Tree/2049.Count-Nodes-With-the-Highest-Score)   
