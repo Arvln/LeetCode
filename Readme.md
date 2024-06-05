@@ -58,6 +58,7 @@
 [383.Ransom-Note](https://github.com/Arvln/LeetCode/tree/main/Hash/383.Ransom-Note)   
 [409.Longest-Palindrome](https://github.com/Arvln/LeetCode/tree/main/Hash/409.Longest-Palindrome)   
 [454.4Sum-II](https://github.com/Arvln/LeetCode/tree/main/Hash/454.4Sum-II)   
+[763.Partition-Labels](https://github.com/Arvln/LeetCode/tree/main/Hash/763.Partition-Labels)   
 [1002.Find-Common-Characters](https://github.com/Arvln/LeetCode/tree/main/Hash/1002.Find-Common-Characters)   
 * ``Hash+Prefix``   
 [523.Continuous-Subarray-Sum](https://github.com/Arvln/LeetCode/tree/main/Hash/523.Continuous-Subarray-Sum)   
