@@ -30,6 +30,7 @@
 [76.Minimum-Window-Substring](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/76.Minimum-Window-Substring)   
 
 #### [Binary Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search)
+[33.Search-in-Rotated-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/33.Search-in-Rotated-Sorted-Array)   
 [34.Find-First-and-Last-Position-of-Element-in-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/34.Find-First-and-Last-Position-of-Element-in-Sorted-Array)   
 [153.Find-Minimum-in-Rotated-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/153.Find-Minimum-in-Rotated-Sorted-Array)   
 [278.First-Bad-Version](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/278.First-Bad-Version)   
