@@ -351,6 +351,7 @@
 [1035.Uncrossed-Lines](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1035.Uncrossed-Lines)   
 [1092.Shortest-Common-Supersequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1092.Shortest-Common-Supersequence)   
 [1143.Longest-Common-Subsequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1143.Longest-Common-Subsequence)   
+[1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome)   
 * ``Interval I``   
 [410.Split-Array-Largest-Sum](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/410.Split-Array-Largest-Sum)   
 [1278.Palindrome-Partitioning-III](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/1278.Palindrome-Partitioning-III)   
@@ -358,6 +359,7 @@
 * ``Interval II``   
 [5.Longest-Palindromic-Substring](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/5.Longest-Palindromic-Substring)   
 [375.Guess-Number-Higher-or-Lower-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/375.Guess-Number-Higher-or-Lower-II)   
+[1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome)   
 * ``Knapsack``   
 [70.Climbing-Stairs](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Knapsack/70.Climbing-Stairs)   
 [322.Coin-Change](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Knapsack/322.Coin-Change)   
