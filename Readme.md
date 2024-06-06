@@ -126,6 +126,7 @@
 [606.Construct-String-from-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/606.Construct-String-from-Binary-Tree)   
 [617.Merge-Two-Binary-Trees](https://github.com/Arvln/LeetCode/tree/main/Tree/617.Merge-Two-Binary-Trees)   
 [637.Average-of-Levels-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/637.Average-of-Levels-in-Binary-Tree)   
+[652.Find-Duplicate-Subtrees](https://github.com/Arvln/LeetCode/tree/main/Tree/652.Find-Duplicate-Subtrees)   
 [654.Maximum-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/654.Maximum-Binary-Tree)   
 [662.Maximum-Width-of-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/662.Maximum-Width-of-Binary-Tree)   
 [663.Equal-Tree-Partition](https://github.com/Arvln/LeetCode/tree/main/Tree/663.Equal-Tree-Partition)   
