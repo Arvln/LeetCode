@@ -359,6 +359,7 @@
 [583.Delete-Operation-for-Two-Strings](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/583.Delete-Operation-for-Two-Strings)   
 [712.Minimum-ASCII-Delete-Sum-for-Two-Strings](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/712.Minimum-ASCII-Delete-Sum-for-Two-Strings)   
 [718.Maximum-Length-of-Repeated-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/718.Maximum-Length-of-Repeated-Subarray)   
+[727.Minimum-Window-Subsequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/727.Minimum-Window-Subsequence)   
 [1035.Uncrossed-Lines](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1035.Uncrossed-Lines)   
 [1092.Shortest-Common-Supersequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1092.Shortest-Common-Supersequence)   
 [1143.Longest-Common-Subsequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1143.Longest-Common-Subsequence)   
