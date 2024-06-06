@@ -345,6 +345,7 @@
 [1186.Maximum-Subarray-Sum-with-One-Deletion](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/1186.Maximum-Subarray-Sum-with-One-Deletion)   
 * ``Basic II``   
 [96.Unique-Binary-Search-Trees](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/96.Unique-Binary-Search-Trees)   
+[264.Ugly-Number-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/264.Ugly-Number-II)   
 [279.Perfect-Squares](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/279.Perfect-Squares)   
 [313.Super-Ugly-Number](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/313.Super-Ugly-Number)   
 [354.Russian-Doll-Envelopes](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/354.Russian-Doll-Envelopes)   
