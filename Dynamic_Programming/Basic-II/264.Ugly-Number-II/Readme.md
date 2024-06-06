@@ -11,7 +11,7 @@
 求第 n 個醜數要合併三條鏈表，思路類似於 #21 用 3 根指針依序推進鏈表元素
 
 ```
-if (cur==ret[i]*2) i++;
-if (cur==ret[j]*3) j++;
-if (cur==ret[k]*5) k++;
+if (ugly[i]*2==next) i++;
+if (ugly[j]*3==next) j++;
+if (ugly[k]*5==next) k++;
 ```
