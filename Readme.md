@@ -209,6 +209,7 @@
 * ``parse expression``   
 [224.Basic-Calculator](https://github.com/Arvln/LeetCode/tree/main/Stack/224.Basic-Calculator)   
 [227.Basic-Calculator-II](https://github.com/Arvln/LeetCode/tree/main/Stack/227.Basic-Calculator-II)   
+[394.Decode-String](https://github.com/Arvln/LeetCode/tree/main/Stack/394.Decode-String)   
 
 #### [Deque](https://github.com/Arvln/LeetCode/tree/main/Deque)
 [862.Shortest-Subarray-with-Sum-at-Least-K](https://github.com/Arvln/LeetCode/tree/main/Deque/862.Shortest-Subarray-with-Sum-at-Least-K)   
