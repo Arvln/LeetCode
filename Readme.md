@@ -58,6 +58,7 @@
 [202.Happy-Number](https://github.com/Arvln/LeetCode/tree/main/Hash/202.Happy-Number)   
 [217.Contains-Duplicate](https://github.com/Arvln/LeetCode/tree/main/Hash/217.Contains-Duplicate)   
 [219.Contains-Duplicate-II](https://github.com/Arvln/LeetCode/tree/main/Hash/219.Contains-Duplicate-II)   
+[242.Valid-Anagram](https://github.com/Arvln/LeetCode/tree/main/Hash/242.Valid-Anagram)   
 [349.Intersection-of-Two-Arrays](https://github.com/Arvln/LeetCode/tree/main/Hash/349.Intersection-of-Two-Arrays)   
 [383.Ransom-Note](https://github.com/Arvln/LeetCode/tree/main/Hash/383.Ransom-Note)   
 [409.Longest-Palindrome](https://github.com/Arvln/LeetCode/tree/main/Hash/409.Longest-Palindrome)   
