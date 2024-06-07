@@ -304,6 +304,7 @@
 
 #### [Trie](https://github.com/Arvln/LeetCode/tree/main/Trie)
 [14.Longest-Common-Prefix](https://github.com/Arvln/LeetCode/tree/main/Trie/14.Longest-Common-Prefix)   
+[139.Word-Break](https://github.com/Arvln/LeetCode/tree/main/Trie/139.Word-Break)   
 [140.Word-Break-II](https://github.com/Arvln/LeetCode/tree/main/Trie/140.Word-Break-II)   
 [208.Implement-Trie-(Prefix-Tree)](https://github.com/Arvln/LeetCode/tree/main/Trie/208.Implement-Trie-(Prefix-Tree))   
 [211.Design-Add-and-Search-Words-Data-Structure](https://github.com/Arvln/LeetCode/tree/main/Trie/211.Design-Add-and-Search-Words-Data-Structure)   
@@ -349,6 +350,7 @@
 [1186.Maximum-Subarray-Sum-with-One-Deletion](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/1186.Maximum-Subarray-Sum-with-One-Deletion)   
 * ``Basic II``   
 [96.Unique-Binary-Search-Trees](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/96.Unique-Binary-Search-Trees)   
+[139.Word-Break](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/139.Word-Break)   
 [264.Ugly-Number-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/264.Ugly-Number-II)   
 [279.Perfect-Squares](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/279.Perfect-Squares)   
 [313.Super-Ugly-Number](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/313.Super-Ugly-Number)   
