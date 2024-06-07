@@ -164,6 +164,7 @@
 [1367.Linked-List-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1367.Linked-List-in-Binary-Tree)   
 [1372.Longest-ZigZag-Path-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1372.Longest-ZigZag-Path-in-a-Binary-Tree)   
 [1379.Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1379.Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree)   
+[1430.Check-If-an-Array-Is-a-Valid-Sequence](https://github.com/Arvln/LeetCode/tree/main/Tree/1430.Check-If-an-Array-Is-a-Valid-Sequence)   
 [1448.Count-Good-Nodes-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1448.Count-Good-Nodes-in-Binary-Tree)   
 [1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1457.Pseudo-Palindromic-Paths-in-a-Binary-Tree)   
 [1469.Find-All-the-Lonely-Nodes](https://github.com/Arvln/LeetCode/tree/main/Tree/1469.Find-All-the-Lonely-Nodes)   
