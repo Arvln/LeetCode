@@ -62,6 +62,7 @@
 [242.Valid-Anagram](https://github.com/Arvln/LeetCode/tree/main/Hash/242.Valid-Anagram)   
 [349.Intersection-of-Two-Arrays](https://github.com/Arvln/LeetCode/tree/main/Hash/349.Intersection-of-Two-Arrays)   
 [383.Ransom-Note](https://github.com/Arvln/LeetCode/tree/main/Hash/383.Ransom-Note)   
+[398.Random-Pick-Index](https://github.com/Arvln/LeetCode/tree/main/Hash/398.Random-Pick-Index)   
 [409.Longest-Palindrome](https://github.com/Arvln/LeetCode/tree/main/Hash/409.Longest-Palindrome)   
 [454.4Sum-II](https://github.com/Arvln/LeetCode/tree/main/Hash/454.4Sum-II)   
 [763.Partition-Labels](https://github.com/Arvln/LeetCode/tree/main/Hash/763.Partition-Labels)   
