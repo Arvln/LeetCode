@@ -477,6 +477,7 @@
 [7.Reverse-Integer](https://github.com/Arvln/LeetCode/tree/main/Others/7.Reverse-Integer)   
 [9.Palindrome-Number](https://github.com/Arvln/LeetCode/tree/main/Others/9.Palindrome-Number)   
 [36.Valid-Sudoku](https://github.com/Arvln/LeetCode/tree/main/Others/36.Valid-Sudoku)   
+[48.Rotate-Image](https://github.com/Arvln/LeetCode/tree/main/Others/48.Rotate-Image)   
 [54.Spiral-Matrix](https://github.com/Arvln/LeetCode/tree/main/Others/54.Spiral-Matrix)   
 [59.Spiral-Matrix-II](https://github.com/Arvln/LeetCode/tree/main/Others/59.Spiral-Matrix-II)   
 [238.Product-of-Array-Except-Self](https://github.com/Arvln/LeetCode/tree/main/Others/238.Product-of-Array-Except-Self)   
