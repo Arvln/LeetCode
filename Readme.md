@@ -210,6 +210,7 @@
 [42.Trapping-Rain-Water](https://github.com/Arvln/LeetCode/tree/main/Stack/42.Trapping-Rain-Water)   
 [84.Largest-Rectangle-in-Histogram](https://github.com/Arvln/LeetCode/tree/main/Stack/84.Largest-Rectangle-in-Histogram)   
 [496.Next-Greater-Element-I](https://github.com/Arvln/LeetCode/tree/main/Stack/496.Next-Greater-Element-I)   
+[503.Next-Greater-Element-II](https://github.com/Arvln/LeetCode/tree/main/Stack/503.Next-Greater-Element-II)   
 [739.Daily-Temperatures](https://github.com/Arvln/LeetCode/tree/main/Stack/739.Daily-Temperatures)   
 [901.Online-Stock-Span](https://github.com/Arvln/LeetCode/tree/main/Stack/901.Online-Stock-Span)   
 [1019.Next-Greater-Node-In-Linked-List](https://github.com/Arvln/LeetCode/tree/main/Stack/1019.Next-Greater-Node-In-Linked-List)   
