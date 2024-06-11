@@ -36,6 +36,7 @@
 [34.Find-First-and-Last-Position-of-Element-in-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/34.Find-First-and-Last-Position-of-Element-in-Sorted-Array)   
 [81.Search-in-Rotated-Sorted-Array-II](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/81.Search-in-Rotated-Sorted-Array-II)   
 [153.Find-Minimum-in-Rotated-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/153.Find-Minimum-in-Rotated-Sorted-Array)   
+[162.Find-Peak-Element](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/162.Find-Peak-Element)   
 [278.First-Bad-Version](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/278.First-Bad-Version)   
 [658.Find-K-Closest-Elements](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/658.Find-K-Closest-Elements)   
 [704.Binary-Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/704.Binary-Search)   
