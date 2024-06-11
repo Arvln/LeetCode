@@ -301,6 +301,7 @@
 [269.Alien-Dictionary](https://github.com/Arvln/LeetCode/tree/main/BFS/269.Alien-Dictionary)   
 [310.Minimum-Height-Trees](https://github.com/Arvln/LeetCode/tree/main/BFS/310.Minimum-Height-Trees)   
 [1443.Minimum-Time-to-Collect-All-Apples-in-a-Tree](https://github.com/Arvln/LeetCode/tree/main/BFS/1443.Minimum-Time-to-Collect-All-Apples-in-a-Tree)   
+[1361.Validate-Binary-Tree-Nodes](https://github.com/Arvln/LeetCode/tree/main/BFS/1361.Validate-Binary-Tree-Nodes)   
 * ``Dijkstra (BFS+PQ)``   
 [505.The-Maze-II](https://github.com/Arvln/LeetCode/tree/main/BFS/505.The-Maze-II)   
 [743.Network-Delay-Time](https://github.com/Arvln/LeetCode/tree/main/BFS/743.Network-Delay-Time)   
