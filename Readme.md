@@ -418,6 +418,7 @@
 [268.Missing-Number](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/268.Missing-Number)   
 [287.Find=the-Duplicate-Number](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/287.Find=the-Duplicate-Number)   
 [338.Counting-Bits](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/338.Counting-Bits)   
+[389.Find-the-Difference](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/389.Find-the-Difference)   
 [645.Set-Mismatch](https://github.com/Arvln/LeetCode/tree/main/Bit_Manipulation/645.Set-Mismatch)   
 
 #### [String](https://github.com/Arvln/LeetCode/tree/main/String)
