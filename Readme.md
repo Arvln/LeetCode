@@ -88,6 +88,7 @@
 [102.Binary-Tree-Level-Order-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/102.Binary-Tree-Level-Order-Traversal)   
 [103.Binary-Tree-Zigzag-Level-Order-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/103.Binary-Tree-Zigzag-Level-Order-Traversal)   
 [104.Maximum-Depth-of-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/104.Maximum-Depth-of-Binary-Tree)   
+[105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal)   
 [106.Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/106.Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal)   
 [107.Binary-Tree-Level-Order-Traversal-II](https://github.com/Arvln/LeetCode/tree/main/Tree/107.Binary-Tree-Level-Order-Traversal-II)   
 [108.Convert-Sorted-Array-to-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/108.Convert-Sorted-Array-to-Binary-Search-Tree)   
