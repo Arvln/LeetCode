@@ -475,6 +475,8 @@
 [738.Monotone-Increasing-Digits](https://github.com/Arvln/LeetCode/tree/main/Greedy/738.Monotone-Increasing-Digits)   
 [860.Lemonade-Change](https://github.com/Arvln/LeetCode/tree/main/Greedy/860.Lemonade-Change)   
 [1005.Maximize-Sum-Of-Array-After-K-Negations](https://github.com/Arvln/LeetCode/tree/main/Greedy/1005.Maximize-Sum-Of-Array-After-K-Negations)   
+* ``Indexing Sort``   
+[41.First-Missing-Positive](https://github.com/Arvln/LeetCode/tree/main/Greedy/41.First-Missing-Positive)   
 * ``Parenthesis``   
 [20.Valid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/Greedy/20.Valid-Parentheses)   
 [678.Valid-Parenthesis-String](https://github.com/Arvln/LeetCode/tree/main/Greedy/678.Valid-Parenthesis-String)   
