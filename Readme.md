@@ -297,6 +297,7 @@
 [490.The-Maze](https://github.com/Arvln/LeetCode/tree/main/BFS/490.The-Maze)   
 [542.01-Matrix](https://github.com/Arvln/LeetCode/tree/main/BFS/542.01-Matrix)   
 [752.Open-the-Lock](https://github.com/Arvln/LeetCode/tree/main/BFS/752.Open-the-Lock)   
+[773.Sliding-Puzzle](https://github.com/Arvln/LeetCode/tree/main/BFS/773.Sliding-Puzzle)   
 [815.Bus-Routes](https://github.com/Arvln/LeetCode/tree/main/BFS/815.Bus-Routes)   
 [994.Rotting-Oranges](https://github.com/Arvln/LeetCode/tree/main/BFS/994.Rotting-Oranges)   
 [1091.Shortest-Path-in-Binary-Matrix](https://github.com/Arvln/LeetCode/tree/main/BFS/1091.Shortest-Path-in-Binary-Matrix)   
