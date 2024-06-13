@@ -48,6 +48,7 @@
 [1201.Ugly-Number-III](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1201.Ugly-Number-III)   
 [1631.Path-With-Minimum-Effort](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1631.Path-With-Minimum-Effort)   
     * ``Find K-th Element``   
+[347.Top-K-Frequent-Elements](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/347.Top-K-Frequent-Elements)   
 [378.Kth-Smallest-Element-in-a-Sorted-Matrix](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/378.Kth-Smallest-Element-in-a-Sorted-Matrix)   
 [692.Top-K-Frequent-Words](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/692.Top-K-Frequent-Words)   
 
