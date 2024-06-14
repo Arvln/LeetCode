@@ -317,6 +317,7 @@
 * ``Dijkstra (BFS+PQ)``   
 [505.The-Maze-II](https://github.com/Arvln/LeetCode/tree/main/BFS/505.The-Maze-II)   
 [743.Network-Delay-Time](https://github.com/Arvln/LeetCode/tree/main/BFS/743.Network-Delay-Time)   
+[1376.Time-Needed-to-Inform-All-Employees](https://github.com/Arvln/LeetCode/tree/main/BFS/1376.Time-Needed-to-Inform-All-Employees)   
 [1514.Path-with-Maximum-Probability](https://github.com/Arvln/LeetCode/tree/main/BFS/1514.Path-with-Maximum-Probability)   
 [1631.Path-With-Minimum-Effort](https://github.com/Arvln/LeetCode/tree/main/BFS/1631.Path-With-Minimum-Effort)   
 
