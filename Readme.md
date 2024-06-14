@@ -203,6 +203,7 @@
 [1649.Create-Sorted-Array-through-Instructions](https://github.com/Arvln/LeetCode/tree/main/Divide_and_Conquer/1649.Create-Sorted-Array-through-Instructions)   
 
 #### [Stack](https://github.com/Arvln/LeetCode/tree/main/Stack)
+[32.Longest-Valid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/Stack/32.Longest-Valid-Parentheses)   
 [67.Add-Binary](https://github.com/Arvln/LeetCode/tree/main/Stack/67.Add-Binary)   
 [150.Evaluate-Reverse-Polish-Notation](https://github.com/Arvln/LeetCode/tree/main/Stack/150.Evaluate-Reverse-Polish-Notation)   
 [155.Min-Stack](https://github.com/Arvln/LeetCode/tree/main/Stack/155.Min-Stack)   
