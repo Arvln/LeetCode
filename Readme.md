@@ -473,6 +473,7 @@
 [50.Pow](https://github.com/Arvln/LeetCode/tree/main/Math/50.Pow)   
 [292.Nim-Game](https://github.com/Arvln/LeetCode/tree/main/Math/292.Nim-Game)   
 [372.Super-Pow](https://github.com/Arvln/LeetCode/tree/main/Math/372.Super-Pow)   
+[553.Optimal-Division](https://github.com/Arvln/LeetCode/tree/main/Math/553.Optimal-Division)   
 * ``Random Pick``   
 [382.Linked-List-Random-Node](https://github.com/Arvln/LeetCode/tree/main/Math/382.Linked-List-Random-Node)   
 [528.Random-Pick-with-Weight](https://github.com/Arvln/LeetCode/tree/main/Math/528.Random-Pick-with-Weight)   
