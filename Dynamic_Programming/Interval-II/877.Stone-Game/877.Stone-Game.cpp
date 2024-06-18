@@ -8,9 +8,8 @@ public:
 
         for (int len=2; len<=n; len++)
             for (int i=0, j=i+len-1; j<n; i++, j++)
-                dp[i][j]=max(dp[i][j-1]+piles[j], dp[i+1][j]+piles[i]);
-        
-        int total=accumulate(piles.begin(), piles.end(), 0);
-        return dp[0][n-1]>total/2;
+                dp[i][j]=max(piles[i]-dp[i+1][j], piles[j]-dp[i][j-1]);
+
+        return dp[0][n-1]>0;
     }
 };
