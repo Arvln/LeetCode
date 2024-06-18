@@ -484,6 +484,7 @@
 [528.Random-Pick-with-Weight](https://github.com/Arvln/LeetCode/tree/main/Math/528.Random-Pick-with-Weight)   
 
 #### [Greedy](https://github.com/Arvln/LeetCode/tree/main/Greedy)
+[45.Jump-Game-II](https://github.com/Arvln/LeetCode/tree/main/Greedy/45.Jump-Game-II)   
 [121.Best-Time-to-Buy-and-Sell-Stock](https://github.com/Arvln/LeetCode/tree/main/Greedy/121.Best-Time-to-Buy-and-Sell-Stock)   
 [122.Best-Time-to-Buy-and-Sell-Stock-II](https://github.com/Arvln/LeetCode/tree/main/Greedy/122.Best-Time-to-Buy-and-Sell-Stock-II)   
 [134.Gas-Station](https://github.com/Arvln/LeetCode/tree/main/Greedy/134.Gas-Station)   
