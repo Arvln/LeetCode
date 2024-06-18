@@ -413,6 +413,7 @@
 * ``Interval II``   
 [5.Longest-Palindromic-Substring](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/5.Longest-Palindromic-Substring)   
 [375.Guess-Number-Higher-or-Lower-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/375.Guess-Number-Higher-or-Lower-II)   
+[486.Predict-the-Winner](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/486.Predict-the-Winner)   
 [877.Stone-Game](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/877.Stone-Game)   
 [1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome)   
 * ``Knapsack``   
