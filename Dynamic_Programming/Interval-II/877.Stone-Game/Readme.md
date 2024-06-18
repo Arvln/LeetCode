@@ -12,7 +12,7 @@
 [i X X X X X X X j]
 ```
 
-Alice可在piles[i]加上[i+1:j]可得最大得分跟piles[j]加上[i:j-1]可得最大得分中挑一個最大的得分數。
+先手玩家在[i:j]可比對手多得幾分取決於piles[i]-後手玩家在[i+1:j]可比對手多得幾分跟piles[j]-後手玩家在[i:j-1]可比對手多得幾分，兩個挑一個最大值。
 
 - 思考需要哪些狀態？
 
@@ -21,13 +21,13 @@ Alice可在piles[i]加上[i+1:j]可得最大得分跟piles[j]加上[i:j-1]可得
 - 定義dp數組含義。
 
 ```
-dp[i][j]: the maximum number of stones Alice can take in piles[i:j].
+dp[i][j]: the maximum difference Alice can get in piles[i:j].
 ```
 
 - 推導狀態轉移方程。
 
 ```
-dp[i][j]=max(dp[i][j-1]+piles[j], dp[i+1][j]+piles[i]);
+dp[i][j]=max(piles[j]-dp[i][j-1], piles[i]-dp[i+1][j]);
 ```
 
 - 設定邊界條件及dp初始值。
@@ -41,4 +41,4 @@ for (int i=0; i<n; i++)
 
 - 得出結論。
 
-Alice在完整區間內最大得分dp[0][n-1]超過石頭總數的一半即為獲勝。
+Alice在完整區間內可比Bob多得dp[0][n-1]分，檢查分數差大於0即為獲勝。
