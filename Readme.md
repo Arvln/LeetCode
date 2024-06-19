@@ -516,6 +516,7 @@
 * ``Intervals``   
 [435.Non-overlapping-Intervals](https://github.com/Arvln/LeetCode/tree/main/Greedy/435.Non-overlapping-Intervals)   
 [1024.Video-Stitching](https://github.com/Arvln/LeetCode/tree/main/Greedy/1024.Video-Stitching)   
+[1288.Remove-Covered-Intervals](https://github.com/Arvln/LeetCode/tree/main/Greedy/1288.Remove-Covered-Intervals)   
 
 #### [Others](https://github.com/Arvln/LeetCode/tree/main/Others)
 [7.Reverse-Integer](https://github.com/Arvln/LeetCode/tree/main/Others/7.Reverse-Integer)   
