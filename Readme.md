@@ -510,6 +510,7 @@
 [1249.Minimum-Remove-to-Make-Valid-Parentheses](https://github.com/Arvln/LeetCode/tree/main/Greedy/1249.Minimum-Remove-to-Make-Valid-Parentheses)   
 [1541.Minimum-Insertions-to-Balance-a-Parentheses-String](https://github.com/Arvln/LeetCode/tree/main/Greedy/1541.Minimum-Insertions-to-Balance-a-Parentheses-String)   
 * ``Intervals``   
+[435.Non-overlapping-Intervals](https://github.com/Arvln/LeetCode/tree/main/Greedy/435.Non-overlapping-Intervals)   
 [1024.Video-Stitching](https://github.com/Arvln/LeetCode/tree/main/Greedy/1024.Video-Stitching)   
 
 #### [Others](https://github.com/Arvln/LeetCode/tree/main/Others)
