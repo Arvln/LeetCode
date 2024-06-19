@@ -381,6 +381,7 @@
 [139.Word-Break](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/139.Word-Break)   
 [264.Ugly-Number-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/264.Ugly-Number-II)   
 [279.Perfect-Squares](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/279.Perfect-Squares)   
+[300.Longest-Increasing-Subsequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/300.Longest-Increasing-Subsequence)   
 [313.Super-Ugly-Number](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/313.Super-Ugly-Number)   
 [354.Russian-Doll-Envelopes](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/354.Russian-Doll-Envelopes)   
 [368.Largest-Divisible-Subset](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/368.Largest-Divisible-Subset)   
