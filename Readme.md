@@ -531,6 +531,7 @@
 [362.Design-Hit-Counter](https://github.com/Arvln/LeetCode/tree/main/Others/362.Design-Hit-Counter)   
 [867.Transpose-Matrix](https://github.com/Arvln/LeetCode/tree/main/Others/867.Transpose-Matrix)   
 * ``Sweep Line``   
+[56.Merge-Intervals](https://github.com/Arvln/LeetCode/tree/main/Others/56.Merge-Intervals)   
 [57.Insert-Interval](https://github.com/Arvln/LeetCode/tree/main/Others/57.Insert-Interval)   
 [252.Meeting-Rooms](https://github.com/Arvln/LeetCode/tree/main/Others/252.Meeting-Rooms)   
 [253.Meeting-Rooms-II](https://github.com/Arvln/LeetCode/tree/main/Others/253.Meeting-Rooms-II)   
