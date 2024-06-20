@@ -362,6 +362,7 @@
 * ``Basic I``   
 [62.Unique-Paths](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/62.Unique-Paths)   
 [63.Unique-Paths-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/63.Unique-Paths-II)   
+[64.Minimum-Path-Sum](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/64.Minimum-Path-Sum)   
 [91.Decode-Ways](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/91.Decode-Ways)   
 [123.Best-Time-to-Buy-and-Sell-Stock-III](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/123.Best-Time-to-Buy-and-Sell-Stock-III)   
 [174.Dungeon-Game](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/174.Dungeon-Game)   
