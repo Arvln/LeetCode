@@ -13,6 +13,7 @@
 [240.Search-a-2D-Matrix-II](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/240.Search-a-2D-Matrix-II)   
 [281.Zigzag-Iterator](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/281.Zigzag-Iterator)   
 [283.Move-Zeroes](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/283.Move-Zeroes)   
+[870.Advantage-Shuffle](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/870.Advantage-Shuffle)   
 [977.Squares-of-a-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/977.Squares-of-a-Sorted-Array)   
 [1260.Shift-2D-Grid](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/1260.Shift-2D-Grid)   
 * ``Sliding Window``   
