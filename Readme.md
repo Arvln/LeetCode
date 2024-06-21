@@ -187,6 +187,7 @@
 [1602.Find-Nearest-Right-Node-in-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/1602.Find-Nearest-Right-Node-in-Binary-Tree)   
 [2049.Count-Nodes-With-the-Highest-Score](https://github.com/Arvln/LeetCode/tree/main/Tree/2049.Count-Nodes-With-the-Highest-Score)   
 * ``LCA``   
+[235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree)   
 [236.Lowest-Common-Ancestor-of-a-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/236.Lowest-Common-Ancestor-of-a-Binary-Tree)   
 [865.Smallest-Subtree-with-all-the-Deepest-Nodes](https://github.com/Arvln/LeetCode/tree/main/Tree/865.Smallest-Subtree-with-all-the-Deepest-Nodes)   
 [1676.Lowest-Common-Ancestor-of-a-Binary-Tree-IV](https://github.com/Arvln/LeetCode/tree/main/Tree/1676.Lowest-Common-Ancestor-of-a-Binary-Tree-IV)   
