@@ -54,6 +54,7 @@
 [347.Top-K-Frequent-Elements](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/347.Top-K-Frequent-Elements)   
 [378.Kth-Smallest-Element-in-a-Sorted-Matrix](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/378.Kth-Smallest-Element-in-a-Sorted-Matrix)   
 [692.Top-K-Frequent-Words](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/692.Top-K-Frequent-Words)   
+[973.K-Closest-Points-to-Origin](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/973.K-Closest-Points-to-Origin)   
 
 #### [Hash Map](https://github.com/Arvln/LeetCode/tree/main/Hash)
 [1.Two-Sum](https://github.com/Arvln/LeetCode/tree/main/Hash/1.Two-Sum)   
