@@ -376,6 +376,7 @@
 [123.Best-Time-to-Buy-and-Sell-Stock-III](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/123.Best-Time-to-Buy-and-Sell-Stock-III)   
 [174.Dungeon-Game](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/174.Dungeon-Game)   
 [188.Best-Time-to-Buy-and-Sell-Stock-IV](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/188.Best-Time-to-Buy-and-Sell-Stock-IV)   
+[198.House-Robber](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/198.House-Robber)   
 [213.House-Robber-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/213.House-Robber-II)   
 [309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown)   
 [485.Max-Consecutive-Ones](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-I/485.Max-Consecutive-Ones)   
