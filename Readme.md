@@ -35,6 +35,7 @@
 #### [Binary Search](https://github.com/Arvln/LeetCode/tree/main/Binary_Search)
 [33.Search-in-Rotated-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/33.Search-in-Rotated-Sorted-Array)   
 [34.Find-First-and-Last-Position-of-Element-in-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/34.Find-First-and-Last-Position-of-Element-in-Sorted-Array)   
+[35.Search-Insert-Position](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/35.Search-Insert-Position)   
 [81.Search-in-Rotated-Sorted-Array-II](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/81.Search-in-Rotated-Sorted-Array-II)   
 [153.Find-Minimum-in-Rotated-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/153.Find-Minimum-in-Rotated-Sorted-Array)   
 [162.Find-Peak-Element](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/162.Find-Peak-Element)   
