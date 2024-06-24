@@ -255,6 +255,7 @@
 * ``Dual PQ``   
 [2402.Meeting-Rooms-III](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/2402.Meeting-Rooms-III)   
 * ``Arrangement with Stride``   
+[358.Rearrange-String-k-Distance-Apart](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/358.Rearrange-String-k-Distance-Apart)   
 [621.Task-Scheduler](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/621.Task-Scheduler)   
 [767.Reorganize-String](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/767.Reorganize-String)   
 [984.String-Without-AAA-or-BBB](https://github.com/Arvln/LeetCode/tree/main/Priority_Queue/984.String-Without-AAA-or-BBB)   
