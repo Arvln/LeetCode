@@ -369,6 +369,7 @@
 [328.Odd-Even-Linked-List](https://github.com/Arvln/LeetCode/tree/main/Linked_List/328.Odd-Even-Linked-List)   
 [707.Design-Linked-List](https://github.com/Arvln/LeetCode/tree/main/Linked_List/707.Design-Linked-List)   
 [876.Middle-of-the-Linked-List](https://github.com/Arvln/LeetCode/tree/main/Linked_List/876.Middle-of-the-Linked-List)   
+[1836.Remove-Duplicates-From-an-Unsorted-Linked-List](https://github.com/Arvln/LeetCode/tree/main/Linked_List/1836.Remove-Duplicates-From-an-Unsorted-Linked-List)   
 
 #### [Dynamic Programming](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming)
 [221.Maximal-Square](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/221.Maximal-Square)   
