@@ -4,6 +4,7 @@
 [26.Remove-Duplicates-from-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/26.Remove-Duplicates-from-Sorted-Array)   
 [27.Remove-Element](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/27.Remove-Element)   
 [42.Trapping-Rain-Water](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/42.Trapping-Rain-Water)   
+[74.Search-a-2D-Matrix](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/74.Search-a-2D-Matrix)   
 [75.Sort-Colors](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/75.Sort-Colors)   
 [80.Remove-Duplicates-from-Sorted-Array-II](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/80.Remove-Duplicates-from-Sorted-Array-II)   
 [88.Merge-Sorted-Array](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/88.Merge-Sorted-Array)   
