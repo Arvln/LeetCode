@@ -543,6 +543,7 @@
 [1541.Minimum-Insertions-to-Balance-a-Parentheses-String](https://github.com/Arvln/LeetCode/tree/main/Greedy/1541.Minimum-Insertions-to-Balance-a-Parentheses-String)   
 * ``Intervals``   
 [435.Non-overlapping-Intervals](https://github.com/Arvln/LeetCode/tree/main/Greedy/435.Non-overlapping-Intervals)   
+[452.Minimum-Number-of-Arrows-to-Burst-Balloons](https://github.com/Arvln/LeetCode/tree/main/Greedy/452.Minimum-Number-of-Arrows-to-Burst-Balloons)   
 [1024.Video-Stitching](https://github.com/Arvln/LeetCode/tree/main/Greedy/1024.Video-Stitching)   
 [1288.Remove-Covered-Intervals](https://github.com/Arvln/LeetCode/tree/main/Greedy/1288.Remove-Covered-Intervals)   
 
