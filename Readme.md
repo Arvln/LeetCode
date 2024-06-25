@@ -187,7 +187,7 @@
 * ``Serialization``   
 [297.Serialize-and-Deserialize-Binary-Tree](https://github.com/Arvln/LeetCode/tree/main/Tree/297.Serialize-and-Deserialize-Binary-Tree)   
 [652.Find-Duplicate-Subtrees](https://github.com/Arvln/LeetCode/tree/main/Tree/652.Find-Duplicate-Subtrees)   
-[694.Number-of-Distinct-Islands](https://github.com/Arvln/LeetCode/tree/main/DFS/694.Number-of-Distinct-Islands)   
+[694.Number-of-Distinct-Islands](https://github.com/Arvln/LeetCode/tree/main/Tree/694.Number-of-Distinct-Islands)   
 * ``Sequence``   
 [105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal)   
 [106.Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal](https://github.com/Arvln/LeetCode/tree/main/Tree/106.Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal)   
