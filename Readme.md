@@ -239,6 +239,7 @@
 [1019.Next-Greater-Node-In-Linked-List](https://github.com/Arvln/LeetCode/tree/main/Stack/1019.Next-Greater-Node-In-Linked-List)   
 [1944.Number-of-Visible-People-in-a-Queue](https://github.com/Arvln/LeetCode/tree/main/Stack/1944.Number-of-Visible-People-in-a-Queue)   
 * ``Form smallest Sequence``   
+[316.Remove-Duplicate-Letters](https://github.com/Arvln/LeetCode/tree/main/Stack/316.Remove-Duplicate-Letters)   
 [402.Remove-K-Digits](https://github.com/Arvln/LeetCode/tree/main/Stack/402.Remove-K-Digits)   
 * ``parse expression``   
 [224.Basic-Calculator](https://github.com/Arvln/LeetCode/tree/main/Stack/224.Basic-Calculator)   
