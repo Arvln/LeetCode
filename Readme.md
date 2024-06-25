@@ -513,6 +513,7 @@
 * ``Random Pick``   
 [382.Linked-List-Random-Node](https://github.com/Arvln/LeetCode/tree/main/Math/382.Linked-List-Random-Node)   
 [528.Random-Pick-with-Weight](https://github.com/Arvln/LeetCode/tree/main/Math/528.Random-Pick-with-Weight)   
+[710.Random-Pick-with-Blacklist](https://github.com/Arvln/LeetCode/tree/main/Math/710.Random-Pick-with-Blacklist)   
 
 #### [Greedy](https://github.com/Arvln/LeetCode/tree/main/Greedy)
 [45.Jump-Game-II](https://github.com/Arvln/LeetCode/tree/main/Greedy/45.Jump-Game-II)   
