@@ -313,6 +313,7 @@
 [698.Partition-to-K-Equal-Sum-Subsets](https://github.com/Arvln/LeetCode/tree/main/DFS/698.Partition-to-K-Equal-Sum-Subsets)   
 * ``Memorization``   
 [329.Longest-Increasing-Path-in-a-Matrix](https://github.com/Arvln/LeetCode/tree/main/DFS/329.Longest-Increasing-Path-in-a-Matrix)   
+[638.Shopping-Offers](https://github.com/Arvln/LeetCode/tree/main/DFS/638.Shopping-Offers)   
 
 #### [BFS](https://github.com/Arvln/LeetCode/tree/main/BFS)
 [126.Word-Ladder-II](https://github.com/Arvln/LeetCode/tree/main/BFS/126.Word-Ladder-II)   
@@ -434,6 +435,7 @@
 [1143.Longest-Common-Subsequence](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1143.Longest-Common-Subsequence)   
 [1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome)   
 * ``state compression``   
+[638.Shopping-Offers](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/638.Shopping-Offers)   
 [691.Stickers-to-Spell-Word](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/691.Stickers-to-Spell-Word)   
 [1125.Smallest-Sufficient-Team](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1125.Smallest-Sufficient-Team)   
 * ``Interval I``   
