@@ -517,6 +517,7 @@
 [553.Optimal-Division](https://github.com/Arvln/LeetCode/tree/main/Math/553.Optimal-Division)   
 * ``Random Pick``   
 [382.Linked-List-Random-Node](https://github.com/Arvln/LeetCode/tree/main/Math/382.Linked-List-Random-Node)   
+[519.Random-Flip-Matrix](https://github.com/Arvln/LeetCode/tree/main/Math/519.Random-Flip-Matrix)   
 [528.Random-Pick-with-Weight](https://github.com/Arvln/LeetCode/tree/main/Math/528.Random-Pick-with-Weight)   
 [710.Random-Pick-with-Blacklist](https://github.com/Arvln/LeetCode/tree/main/Math/710.Random-Pick-with-Blacklist)   
 
