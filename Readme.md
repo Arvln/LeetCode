@@ -435,6 +435,7 @@
 [1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Double_Sequence/1312.Minimum-Insertion-Steps-to-Make-a-String-Palindrome)   
 * ``state compression``   
 [691.Stickers-to-Spell-Word](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/691.Stickers-to-Spell-Word)   
+[1125.Smallest-Sufficient-Team](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1125.Smallest-Sufficient-Team)   
 * ``Interval I``   
 [410.Split-Array-Largest-Sum](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/410.Split-Array-Largest-Sum)   
 [1278.Palindrome-Partitioning-III](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/1278.Palindrome-Partitioning-III)   
