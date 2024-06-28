@@ -440,6 +440,7 @@
 [1125.Smallest-Sufficient-Team](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1125.Smallest-Sufficient-Team)   
 [1349.Maximum-Students-Taking-Exam](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1349.Maximum-Students-Taking-Exam)   
 [1411.Number-of-Ways-to-Paint-N×3-Grid](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1411.Number-of-Ways-to-Paint-N×3-Grid)   
+[1434.Number-of-Ways-to-Wear-Different-Hats-to-Each-Other](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1434.Number-of-Ways-to-Wear-Different-Hats-to-Each-Other)   
 * ``Interval I``   
 [410.Split-Array-Largest-Sum](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/410.Split-Array-Largest-Sum)   
 [1278.Palindrome-Partitioning-III](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/1278.Palindrome-Partitioning-III)   
