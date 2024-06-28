@@ -438,6 +438,7 @@
 [638.Shopping-Offers](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/638.Shopping-Offers)   
 [691.Stickers-to-Spell-Word](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/691.Stickers-to-Spell-Word)   
 [1125.Smallest-Sufficient-Team](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1125.Smallest-Sufficient-Team)   
+[1349.Maximum-Students-Taking-Exam](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1349.Maximum-Students-Taking-Exam)   
 * ``Interval I``   
 [410.Split-Array-Largest-Sum](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/410.Split-Array-Largest-Sum)   
 [1278.Palindrome-Partitioning-III](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/1278.Palindrome-Partitioning-III)   
