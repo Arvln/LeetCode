@@ -46,6 +46,7 @@
 [852.Peak-Index-in-a-Mountain-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/852.Peak-Index-in-a-Mountain-Array)   
 * ``Binary Search by Value``   
 [69.Sqrt(x)](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/69.Sqrt(x))   
+[367.Valid-Perfect-Square](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/367.Valid-Perfect-Square)   
 [410.Split-Array-Largest-Sum](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/410.Split-Array-Largest-Sum)   
 [875.Koko-Eating-Bananas](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/875.Koko-Eating-Bananas)   
 [1011.Capacity-To-Ship-Packages-Within-D-Days](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1011.Capacity-To-Ship-Packages-Within-D-Days)   
