@@ -446,6 +446,7 @@
 [1659.Maximize-Grid-Happiness](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1659.Maximize-Grid-Happiness)   
 [1723.Find-Minimum-Time-to-Finish-All-Jobs](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1723.Find-Minimum-Time-to-Finish-All-Jobs)   
 [1931.Painting-a-Grid-With-Three-Different-Colors](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1931.Painting-a-Grid-With-Three-Different-Colors)   
+[1994.The-Number-of-Good-Subsets](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1994.The-Number-of-Good-Subsets)   
 * ``Interval I``   
 [410.Split-Array-Largest-Sum](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/410.Split-Array-Largest-Sum)   
 [1278.Palindrome-Partitioning-III](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/1278.Palindrome-Partitioning-III)   
