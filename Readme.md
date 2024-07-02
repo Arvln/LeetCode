@@ -52,6 +52,7 @@
 [1011.Capacity-To-Ship-Packages-Within-D-Days](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1011.Capacity-To-Ship-Packages-Within-D-Days)   
 [1201.Ugly-Number-III](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1201.Ugly-Number-III)   
 [1631.Path-With-Minimum-Effort](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1631.Path-With-Minimum-Effort)   
+[1723.Find-Minimum-Time-to-Finish-All-Jobs](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1723.Find-Minimum-Time-to-Finish-All-Jobs)   
     * ``Find K-th Element``   
 [215.Kth-Largest-Element-in-an-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/215.Kth-Largest-Element-in-an-Array)   
 [347.Top-K-Frequent-Elements](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/347.Top-K-Frequent-Elements)   
@@ -443,6 +444,7 @@
 [1411.Number-of-Ways-to-Paint-N×3-Grid](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1411.Number-of-Ways-to-Paint-N×3-Grid)   
 [1434.Number-of-Ways-to-Wear-Different-Hats-to-Each-Other](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1434.Number-of-Ways-to-Wear-Different-Hats-to-Each-Other)   
 [1659.Maximize-Grid-Happiness](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1659.Maximize-Grid-Happiness)   
+[1723.Find-Minimum-Time-to-Finish-All-Jobs](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/1723.Find-Minimum-Time-to-Finish-All-Jobs)   
 * ``Interval I``   
 [410.Split-Array-Largest-Sum](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/410.Split-Array-Largest-Sum)   
 [1278.Palindrome-Partitioning-III](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/1278.Palindrome-Partitioning-III)   
