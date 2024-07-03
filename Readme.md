@@ -205,6 +205,7 @@
 
 #### [Binary_Index_Tree](https://github.com/Arvln/LeetCode/tree/main/Binary_Index_Tree)
 [307.Range-Sum-Query-Mutable](https://github.com/Arvln/LeetCode/tree/main/Binary_Index_Tree/307.Range-Sum-Query-Mutable)   
+[3072.Distribute-Elements-Into-Two-Arrays-II](https://github.com/Arvln/LeetCode/tree/main/Binary_Index_Tree/3072.Distribute-Elements-Into-Two-Arrays-II)   
 
 #### [Design](https://github.com/Arvln/LeetCode/tree/main/Design)
 [380.Insert-Delete-GetRandom-O(1)](https://github.com/Arvln/LeetCode/tree/main/Design/380.Insert-Delete-GetRandom-O(1))   
