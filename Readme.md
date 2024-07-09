@@ -357,6 +357,7 @@
 [212.Word-Search-II](https://github.com/Arvln/LeetCode/tree/main/Trie/212.Word-Search-II)   
 [648.Replace-Words](https://github.com/Arvln/LeetCode/tree/main/Trie/648.Replace-Words)   
 [677.Map-Sum-Pairs](https://github.com/Arvln/LeetCode/tree/main/Trie/677.Map-Sum-Pairs)   
+[3076.Shortest-Uncommon-Substring-in-an-Array](https://github.com/Arvln/LeetCode/tree/main/Trie/3076.Shortest-Uncommon-Substring-in-an-Array)   
 
 #### [Linked List](https://github.com/Arvln/LeetCode/tree/main/Linked_List)
 [2.Add-Two-Numbers](https://github.com/Arvln/LeetCode/tree/main/Linked_List/2.Add-Two-Numbers)   
