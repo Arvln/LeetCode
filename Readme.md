@@ -455,6 +455,7 @@
 [1278.Palindrome-Partitioning-III](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/1278.Palindrome-Partitioning-III)   
 [1335.Minimum-Difficulty-of-a-Job-Schedule](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-I/1335.Minimum-Difficulty-of-a-Job-Schedule)   
 [2472.Maximum-Number-of-Non-overlapping-Palindrome-Substrings](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/2472.Maximum-Number-of-Non-overlapping-Palindrome-Substrings)   
+[2478.Number-of-Beautiful-Partitions](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/2478.Number-of-Beautiful-Partitions)   
 [3077.Maximum-Strength-of-K-Disjoint-Subarrays](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/3077.Maximum-Strength-of-K-Disjoint-Subarrays)   
 * ``Interval II``   
 [5.Longest-Palindromic-Substring](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Interval-II/5.Longest-Palindromic-Substring)   
