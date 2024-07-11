@@ -476,6 +476,7 @@
 [879.Profitable-Schemes](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Knapsack/879.Profitable-Schemes)   
 [956.Tallest-Billboard](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Knapsack/956.Tallest-Billboard)   
 [1049.Last-Stone-Weight-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Knapsack/1049.Last-Stone-Weight-II)   
+[3082.Find-the-Sum-of-the-Power-of-All-Subsequences](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/3082.Find-the-Sum-of-the-Power-of-All-Subsequences)   
 * ``Maximum Subarray``   
 [53.Maximum-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/53.Maximum-Subarray)   
 [152.Maximum-Product-Subarray](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/152.Maximum-Product-Subarray)   
