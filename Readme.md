@@ -424,6 +424,7 @@
 [1105.Filling-Bookcase-Shelves](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/1105.Filling-Bookcase-Shelves)   
 [1425.Constrained-Subsequence-Sum](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/1425.Constrained-Subsequence-Sum)   
 [1696.Jump-Game-VI](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/1696.Jump-Game-VI)   
+[3202.Find-the-Maximum-Length-of-Valid-Subsequence-II](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/3202.Find-the-Maximum-Length-of-Valid-Subsequence-II)   
     * `Interval`   
 [1235.Maximum-Profit-in-Job-Scheduling](https://github.com/Arvln/LeetCode/tree/main/Dynamic_Programming/Basic-II/1235.Maximum-Profit-in-Job-Scheduling)   
 * ``Double Sequence``   
