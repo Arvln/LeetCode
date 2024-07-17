@@ -29,6 +29,7 @@
 [1004.Max-Consecutive-Ones-III](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/1004.Max-Consecutive-Ones-III)   
 [1438.Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/1438.Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit)   
 [1658.Minimum-Operations-to-Reduce-X-to-Zero](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/1658.Minimum-Operations-to-Reduce-X-to-Zero)   
+[3097.Shortest-Subarray-With-OR-at-Least-K-II](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/3097.Shortest-Subarray-With-OR-at-Least-K-II)   
 * ``Sliding Window : Distinct Characters``   
 [3.Longest-Substring-Without-Repeating-Characters](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/3.Longest-Substring-Without-Repeating-Characters)   
 [76.Minimum-Window-Substring](https://github.com/Arvln/LeetCode/tree/main/Two_Pointers/Sliding_Window/76.Minimum-Window-Substring)   
@@ -53,6 +54,7 @@
 [1201.Ugly-Number-III](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1201.Ugly-Number-III)   
 [1631.Path-With-Minimum-Effort](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1631.Path-With-Minimum-Effort)   
 [1723.Find-Minimum-Time-to-Finish-All-Jobs](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/1723.Find-Minimum-Time-to-Finish-All-Jobs)   
+[3097.Shortest-Subarray-With-OR-at-Least-K-II](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/3097.Shortest-Subarray-With-OR-at-Least-K-II)   
     * ``Find K-th Element``   
 [215.Kth-Largest-Element-in-an-Array](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/215.Kth-Largest-Element-in-an-Array)   
 [347.Top-K-Frequent-Elements](https://github.com/Arvln/LeetCode/tree/main/Binary_Search/347.Top-K-Frequent-Elements)   
