@@ -538,6 +538,8 @@
 [292.Nim-Game](https://github.com/Arvln/LeetCode/tree/main/Math/292.Nim-Game)   
 [372.Super-Pow](https://github.com/Arvln/LeetCode/tree/main/Math/372.Super-Pow)   
 [553.Optimal-Division](https://github.com/Arvln/LeetCode/tree/main/Math/553.Optimal-Division)   
+* ``Distances``   
+[1131.Maximum-of-Absolute-Value-Expression](https://github.com/Arvln/LeetCode/tree/main/Math/1131.Maximum-of-Absolute-Value-Expression)   
 * ``Random Pick``   
 [382.Linked-List-Random-Node](https://github.com/Arvln/LeetCode/tree/main/Math/382.Linked-List-Random-Node)   
 [519.Random-Flip-Matrix](https://github.com/Arvln/LeetCode/tree/main/Math/519.Random-Flip-Matrix)   
