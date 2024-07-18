@@ -540,6 +540,7 @@
 [553.Optimal-Division](https://github.com/Arvln/LeetCode/tree/main/Math/553.Optimal-Division)   
 * ``Distances``   
 [1131.Maximum-of-Absolute-Value-Expression](https://github.com/Arvln/LeetCode/tree/main/Math/1131.Maximum-of-Absolute-Value-Expression)   
+[3102.Minimize-Manhattan-Distances](https://github.com/Arvln/LeetCode/tree/main/Math/3102.Minimize-Manhattan-Distances)   
 * ``Random Pick``   
 [382.Linked-List-Random-Node](https://github.com/Arvln/LeetCode/tree/main/Math/382.Linked-List-Random-Node)   
 [519.Random-Flip-Matrix](https://github.com/Arvln/LeetCode/tree/main/Math/519.Random-Flip-Matrix)   
